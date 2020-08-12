@@ -2,9 +2,13 @@ var enJson = document.querySelector('#enJson');
 var twJson = document.querySelector('#twJson');
 var en = {};
 var tw = {};
-for (var k in data) {
-    en[k] = data[k][0];
-    tw[k] = data[k][1];
+for (var section in data) {
+    en[section] = {};
+    tw[section] = {};
+    for (var k in data[section]) {
+        en[section][k] = data[section][k][0];
+        tw[section][k] = data[section][k][1];
+    }
 }
 
 enStr = JSON.stringify(en, null, 4);
