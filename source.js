@@ -16,8 +16,8 @@ var data = {
             "Continue with Google",
             "使用 Google 帳號登入"
         ],
-        "__ForgetPassword": [
-            "Forget Password?",
+        "__ForgotPassword": [
+            "Forgot Password?",
             "忘記密碼？"
         ],
         "__SignUp": [
@@ -51,6 +51,18 @@ var data = {
         "__AlreadyHaveAccount": [
             "Have an account? Log in",
             "已經有帳號，前往登入"
+        ],
+        "__ForgotPasswordHint": [
+            "Enter your email and we'll send you a link to get back into your account.",
+            "輸入註冊所用的 Email 帳號，我們會寄送密碼重設連結給你。"
+        ],
+        "__SendResetLink": [
+            "Send Reset Link",
+            "寄送重設連結"
+        ],
+        "__BackToLogIn": [
+            "Back To Log In",
+            "返回登入"
         ]
     },
     "Menu": {
