@@ -1,4 +1,58 @@
 var data = {
+    "Auth": {
+        "__LogIn": [
+            "Log In",
+            "登入"
+        ],
+        "__EnterEmail": [
+            "Enter Email",
+            "請輸入 Email"
+        ],
+        "__EnterPassword": [
+            "Enter Password",
+            "請輸入密碼"
+        ],
+        "__ContinueWithGoogle": [
+            "Continue with Google",
+            "使用 Google 帳號登入"
+        ],
+        "__ForgetPassword": [
+            "Forget Password?",
+            "忘記密碼？"
+        ],
+        "__SignUp": [
+            "Sign up for an account",
+            "還沒有帳號，前往註冊"
+        ],
+        "__Or": [
+            "OR",
+            "或"
+        ],
+        "__TermsOfService": [
+            "Terms Of Service",
+            "網站服務條款"
+        ],
+        "__PrivacyPolicy": [
+            "Privacy Policy",
+            "隱私權政策"
+        ],
+        "__RegisterForFree": [
+            "RegisterForFree",
+            "限時免費註冊"
+        ],
+        "__ServiceIntroduction": [
+            "Service Introduction",
+            "服務簡述"
+        ],
+        "__Continue": [
+            "Continue",
+            "繼續"
+        ],
+        "__AlreadyHaveAccount": [
+            "Have an account? Log in",
+            "已經有帳號，前往登入"
+        ]
+    },
     "Menu": {
         "__Dashboard": [
             "Dashboard",
