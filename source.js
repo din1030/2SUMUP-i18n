@@ -186,9 +186,45 @@ var data = {
         ]
     },
     "ContactInfo": {
-        "__": [
+        "__Tel": [
             "Tel",
             "聯絡電話"
+        ],
+        "__Mobile": [
+            "Mobile",
+            "手機號碼"
+        ],
+        "__": [
+            "Fax",
+            "傳真號碼"
+        ],
+        "__Fax": [
+            "Website",
+            "網站連結"
+        ],
+        "__TaxID": [
+            "VAT No./Tax ID",
+            "統一編號"
+        ],
+        "__Currency": [
+            "Currency",
+            "使用幣別"
+        ],
+        "__Timezone": [
+            "Timezone",
+            "時區"
+        ],
+        "__Country": [
+            "Country",
+            "國家"
+        ],
+        "__ZIPCode": [
+            "ZIP Code",
+            "郵遞區號"
+        ],
+        "__BillingAddress": [
+            "Billing Address",
+            "帳單地址"
         ]
     },
     "AccountGroups": {
