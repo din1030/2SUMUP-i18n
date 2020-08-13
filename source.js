@@ -1,7 +1,7 @@
 var data = {
     "Auth": {
-        "__LogIn": [
-            "Log In",
+        "__Login": [
+            "Login",
             "登入"
         ],
         "__EnterEmail": [
@@ -60,8 +60,8 @@ var data = {
             "Send Reset Link",
             "寄送重設連結"
         ],
-        "__BackToLogIn": [
-            "Back To Log In",
+        "__BackToLogin": [
+            "Back To Login",
             "返回登入"
         ]
     },
@@ -132,11 +132,11 @@ var data = {
         ],
         "__ChangeBiz": [
             "Change to other business",
-            "切換管理組織"
+            "切換單位"
         ],
         "__AllBiz": [
             "Show all businesses",
-            "管理所屬組織"
+            "所屬單位管理"
         ],
         "__SignedInAs": [
             "Signed in as:",
@@ -144,10 +144,10 @@ var data = {
         ],
         "__Settings": [
             "Settings",
-            "設定"
+            "系統設定"
         ],
         "__TermsOfUse": [
-            "Terms Of Use",
+            "Terms Of Service",
             "網站服務條款"
         ],
         "__PrivacyPolicy": [
@@ -157,6 +157,38 @@ var data = {
         "__SignOut": [
             "Sign Out",
             "登出"
+        ]
+    },
+    "ActionOption": {
+        "__Cancel": [
+            "Cancel",
+            "取消"
+        ],
+        "__Save": [
+            "Save",
+            "儲存"
+        ],
+        "__Confirm": [
+            "Confirm",
+            "確認"
+        ],
+        "__Send": [
+            "Send",
+            "送出"
+        ],
+        "__Delete": [
+            "Delete",
+            "刪除"
+        ],
+        "__Done": [
+            "Done",
+            "完成"
+        ]
+    },
+    "ContactInfo": {
+        "__": [
+            "Tel",
+            "聯絡電話"
         ]
     },
     "AccountGroups": {
@@ -281,6 +313,45 @@ var data = {
         "__RetainedEarnings": [
             "Retained Earnings",
             "保留盈餘或累積虧損"
+        ]
+    },
+    "ChartOfAccounts": {
+        "__AddAccount": [
+            "Add a New Account",
+            "新增科目"
+        ],
+        "__EditAccount": [
+            "Edit Account",
+            "編輯科目"
+        ],
+        "__AccountType": [
+            "Account Type",
+            "類別"
+        ],
+        "__AccountName": [
+            "Account Name",
+            "科目名稱"
+        ],
+        "__AccountDescription": [
+            "Description",
+            "說明"
+        ],
+        "__ArchiveAccount": [
+            "Archive this account.",
+            "封存此科目。"
+        ],
+        "__ArchiveAccountNote": [
+            "You will still be able to generate reports for this account",
+            "and all previously categorized transactions will remain unchanged.",
+            "封存不影響既有之交易紀錄與報表統計，欲刪除此科目請先移除相關之交易紀錄或調整至其他科目。"
+        ]
+    },
+    "MyBizes": {
+        "__BizName": [
+            "單位名稱"
+        ],
+        "__AddBiz": [
+            "新增單位"
         ]
     }
 }
