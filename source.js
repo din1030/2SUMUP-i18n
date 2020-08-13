@@ -194,11 +194,11 @@ var data = {
             "Mobile",
             "手機號碼"
         ],
-        "__": [
+        "__Fax": [
             "Fax",
             "傳真號碼"
         ],
-        "__Fax": [
+        "__Website": [
             "Website",
             "網站連結"
         ],
