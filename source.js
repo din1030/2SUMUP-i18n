@@ -36,8 +36,12 @@ var data = {
             "Privacy Policy",
             "隱私權政策"
         ],
+        "__Agreement": [
+            "By clicking Continue## you agree to our {0} and {1}.",
+            "繼續使用即代表您已閱讀並同意我們的{0}及{1}。"
+        ],
         "__RegisterForFree": [
-            "RegisterForFree",
+            "Register For Free Now",
             "限時免費註冊"
         ],
         "__ServiceIntroduction": [
@@ -351,6 +355,36 @@ var data = {
             "保留盈餘或累積虧損"
         ]
     },
+    "Transactions": {
+        "__AddTransaction": [
+            "Add Transaction",
+            "新增交易"
+        ],
+        "__Income": [
+            "Income",
+            "收入"
+        ],
+        "__Expenses": [
+            "Expense",
+            "支出"
+        ],
+        "__AllPaymentAccounts": [
+            "All Payment Accounts",
+            "所有支付帳戶"
+        ],
+        "__Total": [
+            "Total",
+            "總計"
+        ],
+        "__SelectAll": [
+            "Select All",
+            "全選"
+        ],
+        "__Filter": [
+            "Filter",
+            "篩選"
+        ]
+    },
     "ChartOfAccounts": {
         "__AddAccount": [
             "Add a New Account",
@@ -377,16 +411,17 @@ var data = {
             "封存此科目。"
         ],
         "__ArchiveAccountNote": [
-            "You will still be able to generate reports for this account",
-            "and all previously categorized transactions will remain unchanged.",
+            "You will still be able to generate reports for this account## and all previously categorized transactions will remain unchanged.",
             "封存不影響既有之交易紀錄與報表統計，欲刪除此科目請先移除相關之交易紀錄或調整至其他科目。"
         ]
     },
     "MyBizes": {
         "__BizName": [
+            "Name",
             "單位名稱"
         ],
         "__AddBiz": [
+            "Add Business",
             "新增單位"
         ]
     }
