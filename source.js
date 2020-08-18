@@ -67,6 +67,38 @@ var data = {
         "__BackToLogin": [
             "Back To Login",
             "返回登入"
+        ],
+        "__VerifyEmail": [
+            "Verify Your Email",
+            "驗證信箱"
+        ],
+        "__VerificationNote": [
+            "We have sent a verification email to you. Open the email and verify your account by clicking the link.",
+            "我們已寄送驗證信至下列信箱。請前往收信，並點選啟用連結。"
+        ],
+        "__Resend": [
+            "Resend",
+            "重新寄送驗證信"
+        ],
+        "__ResendHint": [
+            "Did not receive the email? Resend after {sec} second(s).",
+            "沒收到驗證信？{sec} 秒後重新寄送"
+        ],
+        "__ResetYourPassword": [
+            "Reset Your Password",
+            "重設密碼"
+        ],
+        "__SetNewPassword": [
+            "Set New Password",
+            "設定新密碼"
+        ],
+        "__ConfirmNewPassword": [
+            "Confirm New Password",
+            "確認新密碼"
+        ],
+        "__ResetBtn": [
+            "Reset Password",
+            "送出"
         ]
     },
     "Menu": {
@@ -190,6 +222,14 @@ var data = {
         ]
     },
     "ContactInfo": {
+        "__ContactInfo": [
+            "Contact Information",
+            "聯絡資訊"
+        ],
+        "__Name": [
+            "Name",
+            "名稱"
+        ],
         "__Tel": [
             "Tel",
             "聯絡電話"
@@ -201,6 +241,10 @@ var data = {
         "__Fax": [
             "Fax",
             "傳真號碼"
+        ],
+        "__AccountNumber": [
+            "Account Number",
+            "銀行帳號"
         ],
         "__Website": [
             "Website",
@@ -229,6 +273,14 @@ var data = {
         "__BillingAddress": [
             "Billing Address",
             "帳單地址"
+        ],
+        "__2sumupID": [
+            "2SUMUP ID",
+            "2SUMUP ID"
+        ],
+        "__IDNote": [
+            "You can provide this ID to other 2SUMUP users. We will integrate invoice info to your business send via this ID.",
+            "本 ID 可提供給其他 2SUMUP 使用者，透過 ID 傳送之帳務資訊會自動整合至貴公司之資料，不需手動輸入，節省您的時間。"
         ]
     },
     "AccountGroups": {
@@ -423,6 +475,10 @@ var data = {
         "__AddBiz": [
             "Add Business",
             "新增單位"
+        ],
+        "__EditBiz": [
+            "Edit Business Information",
+            "編輯單位資訊"
         ]
     }
 }
