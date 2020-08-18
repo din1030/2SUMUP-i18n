@@ -274,12 +274,16 @@ var data = {
             "Billing Address",
             "帳單地址"
         ],
+        "__Industry": [
+            "Industry",
+            "產業別"
+        ],
         "__2sumupID": [
             "2SUMUP ID",
             "2SUMUP ID"
         ],
         "__IDNote": [
-            "You can provide this ID to other 2SUMUP users. We will integrate invoice info to your business send via this ID.",
+            "You can provide this ID to other 2SUMUP users. Invoices sent via this ID will integrate to your business.",
             "本 ID 可提供給其他 2SUMUP 使用者，透過 ID 傳送之帳務資訊會自動整合至貴公司之資料，不需手動輸入，節省您的時間。"
         ]
     },
