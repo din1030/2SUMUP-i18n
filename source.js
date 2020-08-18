@@ -446,6 +446,10 @@ var data = {
             "Add a New Account",
             "新增科目"
         ],
+        "__SelectType": [
+            "Select account type",
+            "選擇分類"
+        ],
         "__EditAccount": [
             "Edit Account",
             "編輯科目"
