@@ -488,5 +488,67 @@ var data = {
             "Edit Business Information",
             "編輯單位資訊"
         ]
+    },
+    "Products": {
+        "__Price": [
+            "Price",
+            "單價"
+        ],
+        "__Name": [
+            "Name",
+            "名稱"
+        ],
+        "__Type": [
+            "Type",
+            "類別"
+        ],
+        "__Sell": [
+            "Sell",
+            "銷售"
+        ],
+        "__Purchase": [
+            "Purchase",
+            "進貨"
+        ],
+        "__AddNewProduct": [
+            "Add a New Product/Service",
+            "新增商品或服務"
+        ],
+        "__EditNote": [
+            "Products and services bought from vendors are used as Bill items to record purchases## and the ones sell to customers are used as Invoice items to record sales.",
+            "建立商品或服務可讓您在編輯請款單及帳單時快速引入資訊。"
+        ],
+        "__Description": [
+            "Description",
+            "說明"
+        ],
+        "__SalesTax": [
+            "Sales Tax",
+            "稅項"
+        ],
+        "__SelectTax": [
+            "Select Taxes",
+            "請選擇稅項"
+        ],
+        "__IsSellItem": [
+            "Sell this",
+            "此項目可供銷售"
+        ],
+        "__IsBuyingItem": [
+            "Buy this",
+            "此項目為進貨"
+        ],
+        "__IncomeAccount": [
+            "Income Account",
+            "收入入帳科目"
+        ],
+        "__ExpenseAccount": [
+            "Expense Account",
+            "進貨入帳科目"
+        ],
+        "__SelectAccount": [
+            "Select an Account",
+            "請選擇科目"
+        ]
     }
 }
