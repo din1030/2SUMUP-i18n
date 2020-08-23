@@ -682,7 +682,31 @@ var data = {
         ],
         "SendEstimate": [
             "Send Estimate",
-            "送出報價單"
+            "寄送報價單"
+        ],
+        "PoweredBy": [
+            "Powered By 2SUMUP",
+            "本服務由 2SUMUP 提供"
+        ],
+        "From": [
+            "From:",
+            "寄件者"
+        ],
+        "To": [
+            "To:",
+            "收件者"
+        ],
+        "UseCustomerInfo": [
+            "Send to the customer ({customerName}).",
+            "寄送給此報價單客戶（{customerName}）"
+        ],
+        "OtherContact": [
+            "Enter recipient email.## Separate each address with a comma.",
+            "輸入收件者 Email，以半形逗號(##)或換行分隔不同收件者"
+        ],
+        "SendCopy": [
+            "Send a copy to myself.",
+            "寄送副本給我。"
         ]
     }
 }
