@@ -218,10 +218,7 @@ var data = {
         ],
         "__Send": [
             "Send",
-            [
-                "Send via 2SUMUP",
-                "轉寄"
-            ]
+            "送出"
         ],
         "__Delete": [
             "Delete",
@@ -246,6 +243,10 @@ var data = {
         "__Print": [
             "Print",
             "列印"
+        ],
+        "__SendVia2SUMUP": [
+            "Send via 2SUMUP",
+            "轉寄"
         ],
         "__GetLink": [
             "Get Share Link",
