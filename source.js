@@ -1,114 +1,4 @@
 var data = {
-    "Auth": {
-        "Login": [
-            "Login",
-            "登入"
-        ],
-        "EnterEmail": [
-            "Enter Email",
-            "請輸入 Email"
-        ],
-        "EnterPassword": [
-            "Enter Password",
-            "請輸入密碼"
-        ],
-        "ContinueWithGoogle": [
-            "Continue with Google",
-            "使用 Google 帳號登入"
-        ],
-        "ForgotPassword": [
-            "Forgot Password?",
-            "忘記密碼？"
-        ],
-        "SignUp": [
-            "Sign up for an account",
-            "還沒有帳號，前往註冊"
-        ],
-        "Or": [
-            "OR",
-            "或"
-        ],
-        "TermsOfService": [
-            "Terms Of Service",
-            "網站服務條款"
-        ],
-        "PrivacyPolicy": [
-            "Privacy Policy",
-            "隱私權政策"
-        ],
-        "Agreement": [
-            "By clicking Continue## you agree to our {0} and {1}.",
-            "繼續使用即代表您已閱讀並同意我們的{0}及{1}。"
-        ],
-        "RegisterForFree": [
-            "Register For Free Now",
-            "限時免費註冊"
-        ],
-        "ServiceIntroduction": [
-            "Service Introduction",
-            "服務簡述"
-        ],
-        "Continue": [
-            "Continue",
-            "繼續"
-        ],
-        "AlreadyHaveAccount": [
-            "Have an account? Log in",
-            "已經有帳號，前往登入"
-        ],
-        "ForgotPasswordHint": [
-            "Enter your email and we'll send you a link to get back into your account.",
-            "輸入註冊所用的 Email 帳號，我們會寄送密碼重設連結給你。"
-        ],
-        "SendResetLink": [
-            "Send Reset Link",
-            "寄送重設連結"
-        ],
-        "BackToLogin": [
-            "Back To Login",
-            "返回登入"
-        ],
-        "VerifyEmail": [
-            "Verify Your Email",
-            "驗證信箱"
-        ],
-        "VerificationNote": [
-            "We have sent a verification email to you. Open the email and verify your account by clicking the link.",
-            "我們已寄送驗證信至下列信箱。請前往收信，並點選啟用連結。"
-        ],
-        "Resend": [
-            "Resend",
-            "重新寄送驗證信"
-        ],
-        "ResendHint": [
-            "Did not receive the email? Resend after {sec} second(s).",
-            "沒收到驗證信？{sec} 秒後重新寄送"
-        ],
-        "ResetYourPassword": [
-            "Reset Your Password",
-            "重設密碼"
-        ],
-        "SetNewPassword": [
-            "Set New Password",
-            "設定新密碼"
-        ],
-        "ConfirmNewPassword": [
-            "Confirm New Password",
-            "確認新密碼"
-        ],
-        "ResetBtn": [
-            "Reset Password",
-            "送出"
-        ],
-        "VerifiedTitle": [
-            "Congratulations! You're Verified!",
-            "恭喜，您已完成驗證"
-        ],
-        "VerifiedDescription": [
-            "Tell us about you and your business",
-            "填寫您的單位資訊，馬上使用 2SUMUP!"
-        ]
-    },
     "Menu": {
         "Dashboard": [
             "Dashboard",
@@ -262,13 +152,21 @@ var data = {
             "What's Your Name?",
             "如何稱呼您？"
         ],
-        "BizName": [
-            "Business Name",
-            "公司名稱"
-        ],
         "Name": [
             "Name",
             "名稱"
+        ],
+        "BizName": [
+            "Business Name",
+            "單位名稱"
+        ],
+        "CustomerName": [
+            "Customer Name",
+            "客戶名稱"
+        ],
+        "VendorName": [
+            "Vendor Name",
+            "廠商名稱"
         ],
         "Tel": [
             "Tel",
@@ -310,9 +208,21 @@ var data = {
             "ZIP Code",
             "郵遞區號"
         ],
+        "VendorAddress": [
+            "Address",
+            "地址"
+        ],
         "BillingAddress": [
             "Billing Address",
             "帳單地址"
+        ],
+        "ShippingAddress": [
+            "Shipping Address",
+            "寄件地址"
+        ],
+        "ShippingMemo": [
+            "Memo",
+            "寄件備註"
         ],
         "Industry": [
             "Industry",
@@ -325,6 +235,120 @@ var data = {
         "IDNote": [
             "You can provide this ID to other 2SUMUP users. Invoices sent via this ID will integrate to your business.",
             "本 ID 可提供給其他 2SUMUP 使用者，透過 ID 傳送之帳務資訊會自動整合至貴公司之資料，不需手動輸入，節省您的時間。"
+        ],
+        "SameAsBilling": [
+            "Same as billing address",
+            "同聯絡資訊及帳單地址"
+        ]
+    },
+    "Auth": {
+        "Login": [
+            "Login",
+            "登入"
+        ],
+        "EnterEmail": [
+            "Enter Email",
+            "請輸入 Email"
+        ],
+        "EnterPassword": [
+            "Enter Password",
+            "請輸入密碼"
+        ],
+        "ContinueWithGoogle": [
+            "Continue with Google",
+            "使用 Google 帳號登入"
+        ],
+        "ForgotPassword": [
+            "Forgot Password?",
+            "忘記密碼？"
+        ],
+        "SignUp": [
+            "Sign up for an account",
+            "還沒有帳號，前往註冊"
+        ],
+        "Or": [
+            "OR",
+            "或"
+        ],
+        "TermsOfService": [
+            "Terms Of Service",
+            "網站服務條款"
+        ],
+        "PrivacyPolicy": [
+            "Privacy Policy",
+            "隱私權政策"
+        ],
+        "Agreement": [
+            "By clicking Continue## you agree to our {0} and {1}.",
+            "繼續使用即代表您已閱讀並同意我們的{0}及{1}。"
+        ],
+        "RegisterForFree": [
+            "Register For Free Now",
+            "限時免費註冊"
+        ],
+        "ServiceIntroduction": [
+            "Service Introduction",
+            "服務簡述"
+        ],
+        "Continue": [
+            "Continue",
+            "繼續"
+        ],
+        "AlreadyHaveAccount": [
+            "Have an account? Log in",
+            "已經有帳號，前往登入"
+        ],
+        "ForgotPasswordHint": [
+            "Enter your email and we'll send you a link to get back into your account.",
+            "輸入註冊所用的 Email 帳號，我們會寄送密碼重設連結給你。"
+        ],
+        "SendResetLink": [
+            "Send Reset Link",
+            "寄送重設連結"
+        ],
+        "BackToLogin": [
+            "Back To Login",
+            "返回登入"
+        ],
+        "VerifyEmail": [
+            "Verify Your Email",
+            "驗證信箱"
+        ],
+        "VerificationNote": [
+            "We have sent a verification email to you. Open the email and verify your account by clicking the link.",
+            "我們已寄送驗證信至下列信箱。請前往收信，並點選啟用連結。"
+        ],
+        "Resend": [
+            "Resend",
+            "重新寄送驗證信"
+        ],
+        "ResendHint": [
+            "Did not receive the email? Resend after {sec} second(s).",
+            "沒收到驗證信？{sec} 秒後重新寄送"
+        ],
+        "ResetYourPassword": [
+            "Reset Your Password",
+            "重設密碼"
+        ],
+        "SetNewPassword": [
+            "Set New Password",
+            "設定新密碼"
+        ],
+        "ConfirmNewPassword": [
+            "Confirm New Password",
+            "確認新密碼"
+        ],
+        "ResetBtn": [
+            "Reset Password",
+            "送出"
+        ],
+        "VerifiedTitle": [
+            "Congratulations! You're Verified!",
+            "恭喜，您已完成驗證"
+        ],
+        "VerifiedDescription": [
+            "Tell us about you and your business",
+            "填寫您的單位資訊，馬上使用 2SUMUP!"
         ]
     },
     "AccountGroups": {
@@ -707,6 +731,99 @@ var data = {
         "SendCopy": [
             "Send a copy to myself.",
             "寄送副本給我。"
+        ]
+    },
+    "Customers": {
+        "AddCustomer": [
+            "Add a Customer",
+            "新增客戶"
+        ],
+        "EditCustomer": [
+            "Edit Customer Info",
+            "編輯客戶資訊"
+        ],
+        "SearchNote": [
+            "Quickly add Customer Info by 2SUMUP ID:",
+            "若客戶有提供 2SUMUP ID，可查詢帶入資料："
+        ]
+    },
+    "Vendors": {
+        "AddVendor": [
+            "Add a Vendor",
+            "新增廠商"
+        ],
+        "EditVendor": [
+            "Edit Vendor Info",
+            "編輯廠商資訊"
+        ]
+    },
+    "Taxes": {
+        "AddTax": [
+            "Add a Tax",
+            "新增稅項"
+        ],
+        "EditTax": [
+            "Edit Tax Info",
+            "編輯稅項資訊"
+        ],
+        "TaxName": [
+            "Name",
+            "稅項名稱"
+        ],
+        "TaxAbbr": [
+            "Abbreviation(Shown on invoices)",
+            "稅項縮寫（將顯示於單據上）"
+        ],
+        "TaxDescription": [
+            "Description",
+            "稅項說明"
+        ],
+        "TaxRate": [
+            "Tax Rate(%)",
+            "稅率 (%)"
+        ],
+        "RatePlaceholder": [
+            "Enter a number only## without a percent sign."
+        ]
+    },
+    "請輸入不含百分比符號之數字，可包含小數點": {
+        "RateNote": [
+            "For data consistency##tax rate CANNOT be modified after created.",
+            "為確保資料一致性，稅率設定後不可修改，若需調整稅率請新增稅項。"
+        ]
+    },
+    "Status": {
+        "Draft": [
+            "Draft",
+            "草稿"
+        ],
+        "Unsent": [
+            "Unsent",
+            "未寄出"
+        ],
+        "Sent": [
+            "Sent",
+            "已寄出"
+        ],
+        "Viewed": [
+            "Viewed",
+            "已查閱"
+        ],
+        "Partial": [
+            "Partial",
+            "部分付款"
+        ],
+        "Paid": [
+            "Paid",
+            "已結清"
+        ],
+        "Overdue": [
+            "Overdue",
+            "已逾期"
+        ],
+        "Expired": [
+            "Expired",
+            "已逾期"
         ]
     }
 }
