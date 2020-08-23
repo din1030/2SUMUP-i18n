@@ -9,8 +9,8 @@ for (var section in data) {
     en[section] = {};
     tw[section] = {};
     for (var k in data[section]) {
-        en[section][k] = data[section][k][0].replace(/##/g, ','); // for json generator comma issue
-        tw[section][k] = data[section][k][1];
+        en[section]['__' + k] = data[section][k][0].replace(/##/g, ','); // for json generator comma issue
+        tw[section]['__' + k] = data[section][k][1];
     }
 }
 
