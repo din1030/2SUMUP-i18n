@@ -99,6 +99,14 @@ var data = {
         "__ResetBtn": [
             "Reset Password",
             "送出"
+        ],
+        "__VerifiedTitle": [
+            "Congratulations! You're Verified!",
+            "恭喜，您已完成驗證"
+        ],
+        "__VerifiedDescription": [
+            "Tell us about you and your business",
+            "填寫您的單位資訊，馬上使用 2SUMUP!"
         ]
     },
     "Menu": {
@@ -112,11 +120,11 @@ var data = {
         ],
         "__Invoice": [
             "Invoices",
-            "報價單"
+            "請款單"
         ],
         "__Estimate": [
             "Estimates",
-            "請款單"
+            "報價單"
         ],
         "__CustomerStatement": [
             "Customer Statements",
@@ -210,7 +218,10 @@ var data = {
         ],
         "__Send": [
             "Send",
-            "送出"
+            [
+                "Send via 2SUMUP",
+                "轉寄"
+            ]
         ],
         "__Delete": [
             "Delete",
@@ -219,12 +230,40 @@ var data = {
         "__Done": [
             "Done",
             "完成"
+        ],
+        "__More": [
+            "More",
+            "更多"
+        ],
+        "__Duplicate": [
+            "More",
+            "更多"
+        ],
+        "__ExportPDF": [
+            "Export to PDF",
+            "匯出 PDF"
+        ],
+        "__Print": [
+            "Print",
+            "列印"
+        ],
+        "__GetLink": [
+            "Get Share Link",
+            "透過連結分享"
         ]
     },
     "ContactInfo": {
         "__ContactInfo": [
             "Contact Information",
             "聯絡資訊"
+        ],
+        "__WhatsYourName": [
+            "What's Your Name?",
+            "如何稱呼您？"
+        ],
+        "__BizName": [
+            "Business Name",
+            "公司名稱"
         ],
         "__Name": [
             "Name",
@@ -260,7 +299,7 @@ var data = {
         ],
         "__Timezone": [
             "Timezone",
-            "時區"
+            "所在時區"
         ],
         "__Country": [
             "Country",
@@ -278,7 +317,7 @@ var data = {
             "Industry",
             "產業別"
         ],
-        "__2sumupID": [
+        "__2sumupId": [
             "2SUMUP ID",
             "2SUMUP ID"
         ],
@@ -532,7 +571,7 @@ var data = {
         ],
         "__IsSellItem": [
             "Sell this",
-            "此項目可供銷售"
+            "此項目供銷售"
         ],
         "__IsBuyingItem": [
             "Buy this",
@@ -543,12 +582,104 @@ var data = {
             "收入入帳科目"
         ],
         "__ExpenseAccount": [
-            "Expense Account",
+            "Cost Account",
             "進貨入帳科目"
         ],
         "__SelectAccount": [
             "Select an Account",
             "請選擇科目"
+        ]
+    },
+    "EstimatesAndInvoices": {
+        "__Status": [
+            "Status",
+            "狀態"
+        ],
+        "__Title": [
+            "Title",
+            "標題"
+        ],
+        "__Subtitle": [
+            "Subtitle",
+            "副標題"
+        ],
+        "__Date": [
+            "Date",
+            "報價日期"
+        ],
+        "__Expired": [{},
+            {}
+        ],
+        "__No": [
+            "No.",
+            "編號"
+        ],
+        "__Customer": [
+            "Customer",
+            "顧客"
+        ],
+        "__Amount": [
+            "Amount",
+            [
+                "Amount",
+                "金額"
+            ]
+        ],
+        "__CreateEstimate": [
+            "Create an Estimate",
+            "新增報價單"
+        ],
+        "__Item": [
+            "Item",
+            "報價項目"
+        ],
+        "__Description": [
+            "Description",
+            "說明"
+        ],
+        "__Quantity": [
+            "Quantity",
+            "數量"
+        ],
+        "__Price": [
+            "Price",
+            "單價"
+        ],
+        "__Tax": [
+            "Tax",
+            "稅項"
+        ],
+        "__Subtotal": [
+            "Subtotal",
+            "小計"
+        ],
+        "__Total": [
+            "Total",
+            "報價總金額"
+        ],
+        "__Memo": [
+            "Memo",
+            "備註"
+        ],
+        "__Footer": [
+            "Footer Text",
+            "頁尾文字"
+        ],
+        "__PreviewAsCustomer": [
+            "Preview as Customer",
+            "預覽客戶檢視"
+        ],
+        "__Edit": [
+            "Edit",
+            "編輯"
+        ],
+        "__ConvertToInvoice": [
+            "Convert To Invoice",
+            "轉換為請款單"
+        ],
+        "__SendEstimate": [
+            "Send Estimate",
+            "送出報價單"
         ]
     }
 }
