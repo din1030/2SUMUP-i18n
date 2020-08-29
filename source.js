@@ -1,11 +1,11 @@
 var data = {
     "Menu": {
         "Dashboard": [
-            "Dashboard",
+            "%%",
             "總覽"
         ],
         "Sales": [
-            "Sales",
+            "%%",
             "銷售"
         ],
         "Invoice": [
@@ -77,7 +77,7 @@ var data = {
             "目前帳號："
         ],
         "Settings": [
-            "Settings",
+            "%%",
             "系統設定"
         ],
         "TermsOfUse": [
@@ -95,43 +95,43 @@ var data = {
     },
     "ActionOption": {
         "Cancel": [
-            "Cancel",
+            "%%",
             "取消"
         ],
         "Save": [
-            "Save",
+            "%%",
             "儲存"
         ],
         "Confirm": [
-            "Confirm",
+            "%%",
             "確認"
         ],
         "Send": [
-            "Send",
+            "%%",
             "送出"
         ],
         "Delete": [
-            "Delete",
+            "%%",
             "刪除"
         ],
         "Done": [
-            "Done",
+            "%%",
             "完成"
         ],
         "More": [
-            "More",
+            "%%",
             "更多"
         ],
         "Duplicate": [
-            "More",
-            "更多"
+            "%%",
+            "複製"
         ],
         "ExportPDF": [
             "Export to PDF",
             "匯出 PDF"
         ],
         "Print": [
-            "Print",
+            "%%",
             "列印"
         ],
         "SendVia2SUMUP": [
@@ -153,7 +153,7 @@ var data = {
             "如何稱呼您？"
         ],
         "Name": [
-            "Name",
+            "%%",
             "名稱"
         ],
         "BizName": [
@@ -169,15 +169,15 @@ var data = {
             "廠商名稱"
         ],
         "Tel": [
-            "Tel",
+            "%%",
             "聯絡電話"
         ],
         "Mobile": [
-            "Mobile",
+            "%%",
             "手機號碼"
         ],
         "Fax": [
-            "Fax",
+            "%%",
             "傳真號碼"
         ],
         "AccountNumber": [
@@ -185,7 +185,7 @@ var data = {
             "銀行帳號"
         ],
         "Website": [
-            "Website",
+            "%%",
             "網站連結"
         ],
         "TaxID": [
@@ -193,15 +193,15 @@ var data = {
             "統一編號"
         ],
         "Currency": [
-            "Currency",
+            "%%",
             "使用幣別"
         ],
         "Timezone": [
-            "Timezone",
+            "%%",
             "所在時區"
         ],
         "Country": [
-            "Country",
+            "%%",
             "國家"
         ],
         "ZIPCode": [
@@ -225,7 +225,7 @@ var data = {
             "寄件備註"
         ],
         "Industry": [
-            "Industry",
+            "%%",
             "產業別"
         ],
         "2sumupId": [
@@ -243,7 +243,7 @@ var data = {
     },
     "Auth": {
         "Login": [
-            "Login",
+            "%%",
             "登入"
         ],
         "EnterEmail": [
@@ -291,7 +291,7 @@ var data = {
             "服務簡述"
         ],
         "Continue": [
-            "Continue",
+            "%%",
             "繼續"
         ],
         "AlreadyHaveAccount": [
@@ -319,7 +319,7 @@ var data = {
             "我們已寄送驗證信至下列信箱。請前往收信，並點選啟用連結。"
         ],
         "Resend": [
-            "Resend",
+            "%%",
             "重新寄送驗證信"
         ],
         "ResendHint": [
@@ -353,15 +353,15 @@ var data = {
     },
     "AccountGroups": {
         "Assets": [
-            "Assets",
+            "%%",
             "資產"
         ],
         "Liabilities": [
-            "Liabilities",
+            "%%",
             "負債"
         ],
         "Income": [
-            "Income",
+            "%%",
             "營業收入"
         ],
         "OperatingExpenses": [
@@ -395,7 +395,7 @@ var data = {
             "應收帳款"
         ],
         "Inventories": [
-            "Inventories",
+            "%%",
             "存貨"
         ],
         "PrepaidExpenses": [
@@ -455,7 +455,7 @@ var data = {
             "其他營業成本"
         ],
         "Expenses": [
-            "Expenses",
+            "%%",
             "一般營業費用"
         ],
         "OtherOperatingExpenses": [
@@ -463,7 +463,7 @@ var data = {
             "其他營業費用"
         ],
         "Capital": [
-            "Capital",
+            "%%",
             "資本"
         ],
         "AdditionalPaidInCapital": [
@@ -481,19 +481,27 @@ var data = {
             "新增交易"
         ],
         "Income": [
-            "Income",
+            "%%",
             "收入"
         ],
         "Expenses": [
             "Expense",
             "支出"
         ],
+        "Deposit": [
+            "%%",
+            "存入"
+        ],
+        "Withdraw": [
+            "%%",
+            "提出"
+        ],
         "AllPaymentAccounts": [
             "All Payment Accounts",
             "所有支付帳戶"
         ],
         "Total": [
-            "Total",
+            "%%",
             "總計"
         ],
         "SelectAll": [
@@ -501,7 +509,7 @@ var data = {
             "全選"
         ],
         "Filter": [
-            "Filter",
+            "%%",
             "篩選"
         ]
     },
@@ -555,23 +563,23 @@ var data = {
     },
     "Products": {
         "Price": [
-            "Price",
+            "%%",
             "單價"
         ],
         "Name": [
-            "Name",
+            "%%",
             "名稱"
         ],
         "Type": [
-            "Type",
+            "%%",
             "類別"
         ],
         "Sell": [
-            "Sell",
+            "%%",
             "銷售"
         ],
         "Purchase": [
-            "Purchase",
+            "%%",
             "進貨"
         ],
         "AddNewProduct": [
@@ -583,7 +591,7 @@ var data = {
             "建立商品或服務可讓您在編輯請款單及帳單時快速引入資訊。"
         ],
         "Description": [
-            "Description",
+            "%%",
             "說明"
         ],
         "SalesTax": [
@@ -617,15 +625,15 @@ var data = {
     },
     "EstimatesAndInvoices": {
         "Status": [
-            "Status",
+            "%%",
             "狀態"
         ],
         "Title": [
-            "Title",
+            "%%",
             "標題"
         ],
         "Subtitle": [
-            "Subtitle",
+            "%%",
             "副標題"
         ],
         "Date": [
@@ -641,7 +649,7 @@ var data = {
             "編號"
         ],
         "Customer": [
-            "Customer",
+            "%%",
             "顧客"
         ],
         "AmountInList": [
@@ -653,39 +661,39 @@ var data = {
             "新增報價單"
         ],
         "Item": [
-            "Item",
+            "%%",
             "報價項目"
         ],
         "Description": [
-            "Description",
+            "%%",
             "說明"
         ],
         "Quantity": [
-            "Quantity",
+            "%%",
             "數量"
         ],
         "Price": [
-            "Price",
+            "%%",
             "單價"
         ],
         "Tax": [
-            "Tax",
+            "%%",
             "稅項"
         ],
         "Amount": [
-            "Amount",
+            "%%",
             "金額"
         ],
         "Subtotal": [
-            "Subtotal",
+            "%%",
             "小計"
         ],
         "Total": [
-            "Total",
+            "%%",
             "報價總金額"
         ],
         "Memo": [
-            "Memo",
+            "%%",
             "備註"
         ],
         "Footer": [
@@ -697,7 +705,7 @@ var data = {
             "預覽客戶檢視"
         ],
         "Edit": [
-            "Edit",
+            "%%",
             "編輯"
         ],
         "ConvertToInvoice": [
@@ -794,35 +802,35 @@ var data = {
     },
     "Status": {
         "Draft": [
-            "Draft",
+            "%%",
             "草稿"
         ],
         "Unsent": [
-            "Unsent",
+            "%%",
             "未寄出"
         ],
         "Sent": [
-            "Sent",
+            "%%",
             "已寄出"
         ],
         "Viewed": [
-            "Viewed",
+            "%%",
             "已查閱"
         ],
         "Partial": [
-            "Partial",
+            "%%",
             "部分付款"
         ],
         "Paid": [
-            "Paid",
+            "%%",
             "已結清"
         ],
         "Overdue": [
-            "Overdue",
+            "%%",
             "已逾期"
         ],
         "Expired": [
-            "Expired",
+            "%%",
             "已逾期"
         ]
     }
