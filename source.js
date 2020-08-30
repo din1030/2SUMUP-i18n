@@ -651,11 +651,11 @@ var data = {
             "%%",
             "副標題"
         ],
-        "Date": [
+        "EstimateDate": [
             "Date",
             "報價日期"
         ],
-        "ExpiredAt": [
+        "EstimateExpiredAt": [
             "Expired At",
             "報價有效期限"
         ],
@@ -667,7 +667,7 @@ var data = {
             "%%",
             "顧客"
         ],
-        "AmountInList": [
+        "EstimateAmountInList": [
             "Amount",
             "報價總金額"
         ],
@@ -754,6 +754,102 @@ var data = {
         "SendCopy": [
             "Send a copy to myself.",
             "寄送副本給我。"
+        ],
+        "InvoiceDate": [
+            "Date",
+            "建立日期"
+        ],
+        "InvoiceDueOn": [
+            "Due on",
+            "付款期限"
+        ],
+        "InvoiceAmountInList": [
+            "Amount",
+            "請款總金額"
+        ],
+        "OutstandingPayment": [
+            "Outstanding payment",
+            "尚未收款金額"
+        ],
+        "Unpaid": [
+            "%%",
+            "未付款"
+        ],
+        "Draft": [
+            "%%",
+            "草稿"
+        ],
+        "All": [
+            "%%",
+            "全部"
+        ],
+        "RecordPaymentReceived": [
+            "Record payment received",
+            "記錄收款資訊"
+        ],
+        "SendReminder": [
+            "Send reminder",
+            "寄送付款提醒"
+        ],
+        "Approve": [
+            "%%",
+            "核准請款"
+        ],
+        "CreateOtherInvoice": [
+            "Create other invoice",
+            "新增其他請款單"
+        ],
+        "EditInvoice": [
+            "Edit invoice",
+            "編輯請款單"
+        ],
+        "SendingHistory": [
+            "Sending History",
+            "寄送記錄"
+        ],
+        "LastSent": [
+            "Last sent:",
+            "最後寄送時間："
+        ],
+        "NeverSent": [
+            "Never",
+            "尚未寄送"
+        ],
+        "SendInvoice": [
+            "Send invoice",
+            "寄出請款單"
+        ],
+        "GetShareLink": [
+            "Get share link",
+            "取得分享連結"
+        ],
+        "MarkAsSent": [
+            "Mark as sent",
+            "標示為已寄出"
+        ],
+        "GetPaid": [
+            "Get paid",
+            "收款記錄"
+        ],
+        "SendReceipt": [
+            "Send Receipt",
+            "寄送收據"
+        ],
+        "EditPayment": [
+            "Edit payment transaction",
+            "編輯收款交易"
+        ],
+        "DeletePayment": [
+            "Delete payment transaction",
+            "刪除收款交易"
+        ],
+        "PaymentHistoryFormat": [
+            "{date} - A payment for {paymentAmount} has been received.",
+            "{date} 收到款項 {paymentAmount}。"
+        ],
+        "BillTo": [
+            "Bill to",
+            "收件者"
         ]
     },
     "Customers": {
