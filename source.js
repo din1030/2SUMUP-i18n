@@ -511,6 +511,21 @@ var data = {
         "Filter": [
             "%%",
             "篩選"
+        ],
+        "Include": [{},
+            {}
+        ],
+        "BeforeTaxAmount": [
+            "Before tax",
+            "稅前金額"
+        ],
+        "TaxAmount": [
+            "Tax amount",
+            "總稅額"
+        ],
+        "AfterTaxAmount": [
+            "After tax",
+            "含稅總金額"
         ]
     },
     "ChartOfAccounts": {
