@@ -735,6 +735,22 @@ var data = {
             "Send Estimate",
             "寄送報價單"
         ],
+        "ShareEstimate": [
+            "Share Estimate",
+            "分享報價單"
+        ],
+        "ShareHint": [
+            "Your customer can view the invoice at this link:",
+            "透過下面的連結，將此報價單分享給客戶："
+        ],
+        "PreviewInNewWindow": [
+            "Preview in new window",
+            "在新視窗中預覽"
+        ],
+        "CopyLink": [
+            "Copy Link",
+            "點我複製連結"
+        ],
         "PoweredBy": [
             "Powered By 2SUMUP",
             "本服務由 2SUMUP 提供"
@@ -821,7 +837,11 @@ var data = {
         ],
         "SendInvoice": [
             "Send invoice",
-            "寄出請款單"
+            "寄送請款單"
+        ],
+        "ShareInvoice": [
+            "Share invoice",
+            "分享請款單"
         ],
         "GetShareLink": [
             "Get share link",
@@ -836,7 +856,7 @@ var data = {
             "收款記錄"
         ],
         "SendReceipt": [
-            "Send Receipt",
+            "Send receipt",
             "寄送收據"
         ],
         "EditPayment": [
