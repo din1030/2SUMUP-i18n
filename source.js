@@ -699,6 +699,10 @@ var data = {
             "%%",
             "金額"
         ],
+        "AddItem": [
+            "Add Item",
+            "新增報價項目"
+        ],
         "Subtotal": [
             "%%",
             "小計"
