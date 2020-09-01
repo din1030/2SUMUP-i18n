@@ -118,6 +118,10 @@ var data = {
             "%%",
             "完成"
         ],
+        "Close": [
+            "%%",
+            "關閉"
+        ],
         "More": [
             "%%",
             "更多"
@@ -133,14 +137,6 @@ var data = {
         "Print": [
             "%%",
             "列印"
-        ],
-        "SendVia2SUMUP": [
-            "Send via 2SUMUP",
-            "轉寄"
-        ],
-        "GetLink": [
-            "Get Share Link",
-            "透過連結分享"
         ]
     },
     "ContactInfo": {
@@ -512,8 +508,9 @@ var data = {
             "%%",
             "篩選"
         ],
-        "Include": [{},
-            {}
+        "IncludeTax": [
+            "Include tax",
+            "內含稅額"
         ],
         "BeforeTaxAmount": [
             "Before tax",
@@ -843,8 +840,12 @@ var data = {
             "Share invoice",
             "分享請款單"
         ],
-        "GetShareLink": [
-            "Get share link",
+        "SendVia2SUMUP": [
+            "Send via 2SUMUP",
+            "轉寄"
+        ],
+        "GetLink": [
+            "Get Share Link",
             "取得分享連結"
         ],
         "MarkAsSent": [
@@ -874,6 +875,52 @@ var data = {
         "BillTo": [
             "Bill to",
             "收件者"
+        ]
+    },
+    "Receipts": {
+        "Date": [
+            "%%",
+            "日期"
+        ],
+        "Merchant": [
+            "%%",
+            "廠商"
+        ],
+        "ExpenseAccount": [
+            "Expense Account",
+            "支出項目"
+        ],
+        "PaymentAccount": [
+            "Payment Account",
+            "付款帳戶"
+        ],
+        "Amount": [
+            "%%",
+            "金額"
+        ],
+        "UploadReceipt": [
+            "Upload a receipt",
+            "上傳收據/發票"
+        ],
+        "UploadImage": [
+            "Upload receipt image",
+            "上傳收據/發票圖片"
+        ],
+        "Memo": [
+            "%%",
+            "備註"
+        ],
+        "BeforeTaxAmount": [
+            "Before tax",
+            "稅前金額"
+        ],
+        "Tax": [
+            "%%",
+            "稅項"
+        ],
+        "AfterTaxAmount": [
+            "After tax",
+            "含稅總金額"
         ]
     },
     "Customers": {
@@ -923,7 +970,7 @@ var data = {
         ],
         "TaxRate": [
             "Tax Rate(%)",
-            "稅率 (%)"
+            "稅率（％）"
         ],
         "RatePlaceholder": [
             "Enter a number only## without a percent sign."
