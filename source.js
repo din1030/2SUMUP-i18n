@@ -875,6 +875,18 @@ var data = {
         "BillTo": [
             "Bill to",
             "收件者"
+        ],
+        "PaymentDate": [
+            "Payment date",
+            "收款日期"
+        ],
+        "PaymentAmount": [
+            "Amount",
+            "收款金額"
+        ],
+        "PaymentAccount": [
+            "Payment account",
+            "收款帳戶"
         ]
     },
     "Receipts": {
