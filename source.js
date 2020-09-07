@@ -476,6 +476,10 @@ var data = {
             "Add Transaction",
             "新增交易"
         ],
+        "EditTransaction": [
+            "Edit Transaction",
+            "編輯交易紀錄"
+        ],
         "Income": [
             "%%",
             "收入"
@@ -511,6 +515,10 @@ var data = {
         "Total": [
             "%%",
             "總計"
+        ],
+        "Notes": [
+            "%%",
+            "備註"
         ],
         "SelectAll": [
             "Select All",
@@ -579,6 +587,38 @@ var data = {
         "Status": [
             "%%",
             "審核狀態"
+        ],
+        "Debits": [
+            "%%",
+            "借方"
+        ],
+        "Credits": [
+            "%%",
+            "貸方"
+        ],
+        "AddDebit": [
+            "Add Debit",
+            "新增借方"
+        ],
+        "AddCredit": [
+            "Add Credit",
+            "新增貸方"
+        ],
+        "TotalDebit": [
+            "Total Debit",
+            "借方總額"
+        ],
+        "TotalCredit": [
+            "Total Credit",
+            "貸方總額"
+        ],
+        "Unbalanced": [
+            "Unbalanced",
+            "未平衡"
+        ],
+        "UnbalancedNote": [
+            "Unbalanced transaction!",
+            "借貸項目未平衡！"
         ]
     },
     "ChartOfAccounts": {
