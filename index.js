@@ -15,6 +15,23 @@ for (var section in data) {
     }
 }
 
+var ph1 = ['Vendor', 'Costomer', 'Tax', 'Account', 'Date', 'DateRange', 'Status', 'Country ', 'Currency'];
+var ph2 = ['廠商', '客戶', '稅項', '科目', '日期', '日期區間', '狀態', '國家', '使用幣別'];
+tw['Placeholder'] = {};
+en['Placeholder'] = {};
+for (var i = 0; i < ph1.length; i++) {
+    tw['Placeholder']['__' + ph1[i]] = '選擇' + ph2[i];
+    if (['A', 'E', 'I', 'O', 'U'].includes(ph1[i][0])) {
+        en['Placeholder']['__' + ph1[i]] = "Select an " + ph1[i];
+    } else {
+        if (ph1[i] == 'Tax') {
+            en['Placeholder']['__' + ph1[i]] = "Select " + ph1[i] + "(es)";
+            continue;
+        }
+        en['Placeholder']['__' + ph1[i]] = "Select a " + ph1[i];
+    }
+}
+
 enStr = JSON.stringify(en, null, 4);
 twStr = JSON.stringify(tw, null, 4);
 
