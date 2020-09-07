@@ -484,6 +484,10 @@ var data = {
             "Expense",
             "支出"
         ],
+        "Type": [
+            "%%",
+            "收支類型"
+        ],
         "Deposit": [
             "%%",
             "存入"
@@ -491,6 +495,14 @@ var data = {
         "Withdraw": [
             "%%",
             "提出"
+        ],
+        "PaymentAccount": [
+            "Payment Account",
+            "付款帳戶"
+        ],
+        "EntryAccount": [
+            "Entry Account",
+            "分錄科目"
         ],
         "AllPaymentAccounts": [
             "All Payment Accounts",
@@ -523,6 +535,50 @@ var data = {
         "AfterTaxAmount": [
             "After tax",
             "含稅總金額"
+        ],
+        "Date": [
+            "%%",
+            "交易日期"
+        ],
+        "Description": [
+            "%%",
+            "交易概要"
+        ],
+        "Amount": [
+            "%%",
+            "交易金額"
+        ],
+        "Category": [
+            "%%",
+            "交易分類"
+        ],
+        "Reviewed": [
+            "%%",
+            "已審核"
+        ],
+        "NotReviewed": [
+            "Not Reviewed",
+            "未審核"
+        ],
+        "MarkReviewed": [
+            "Mark as Reviewed",
+            "標示為已審核"
+        ],
+        "MarkNotReviewed": [
+            "Mark as Not Reviewed",
+            "標示為未審核"
+        ],
+        "Vendor": [
+            "%%",
+            "廠商"
+        ],
+        "Customer": [
+            "%%",
+            "顧客"
+        ],
+        "Status": [
+            "%%",
+            "審核狀態"
         ]
     },
     "ChartOfAccounts": {
@@ -985,10 +1041,9 @@ var data = {
             "稅率（％）"
         ],
         "RatePlaceholder": [
-            "Enter a number only## without a percent sign."
-        ]
-    },
-    "請輸入不含百分比符號之數字，可包含小數點": {
+            "Enter a number only## without a percent sign.",
+            "請輸入不含百分比符號之數字，可包含小數點"
+        ],
         "RateNote": [
             "For data consistency##tax rate CANNOT be modified after created.",
             "為確保資料一致性，稅率設定後不可修改，若需調整稅率請新增稅項。"
