@@ -472,6 +472,10 @@ var data = {
         ]
     },
     "Transactions": {
+        "Transactions": [
+            "%%",
+            "交易記錄"
+        ],
         "AddTransaction": [
             "Add Transaction",
             "新增交易"
@@ -622,6 +626,10 @@ var data = {
         ]
     },
     "ChartOfAccounts": {
+        "ChartOfAccounts": [
+            "Chart Of Accounts",
+            "會計科目表"
+        ],
         "AddAccount": [
             "Add a New Account",
             "新增科目"
@@ -656,6 +664,10 @@ var data = {
         ]
     },
     "MyBizes": {
+        "MyBizes": [
+            "My Businesses",
+            "所屬單位"
+        ],
         "BizName": [
             "Name",
             "單位名稱"
@@ -670,6 +682,10 @@ var data = {
         ]
     },
     "Products": {
+        "ProductAndService": [
+            "Products/Services",
+            "產品及服務"
+        ],
         "Price": [
             "%%",
             "單價"
@@ -732,6 +748,14 @@ var data = {
         ]
     },
     "EstimatesAndInvoices": {
+        "Invoice": [
+            "Invoices",
+            "請款單"
+        ],
+        "Estimate": [
+            "Estimates",
+            "報價單"
+        ],
         "Status": [
             "%%",
             "狀態"
@@ -986,6 +1010,10 @@ var data = {
         ]
     },
     "Receipts": {
+        "Receipt": [
+            "Receipts",
+            "收據/發票"
+        ],
         "Date": [
             "%%",
             "日期"
@@ -1032,6 +1060,10 @@ var data = {
         ]
     },
     "Customers": {
+        "CustomerInfo": [
+            "Customers",
+            "顧客資料"
+        ],
         "AddCustomer": [
             "Add a Customer",
             "新增客戶"
@@ -1046,6 +1078,10 @@ var data = {
         ]
     },
     "Vendors": {
+        "VendorInfo": [
+            "Vendors",
+            "廠商資料"
+        ],
         "AddVendor": [
             "Add a Vendor",
             "新增廠商"
@@ -1056,6 +1092,10 @@ var data = {
         ]
     },
     "Taxes": {
+        "Taxes": [
+            "Taxes",
+            "稅務"
+        ],
         "AddTax": [
             "Add a Tax",
             "新增稅項"
@@ -1121,6 +1161,30 @@ var data = {
         "Expired": [
             "%%",
             "已逾期"
+        ]
+    },
+    "Dashboard": {
+        "Dashboard": [
+            "%%",
+            "總覽"
+        ]
+    },
+    "Bills": {
+        "Bill": [
+            "Bills",
+            "帳單"
+        ]
+    },
+    "Reports": {
+        "Report": [
+            "Reports",
+            "報表"
+        ]
+    },
+    "Settings": {
+        "Settings": [
+            "%%",
+            "系統設定"
         ]
     }
 }
