@@ -1309,6 +1309,82 @@ var data = {
             "Bills",
             "帳單"
         ],
+        "AddBill": [
+            "Add a Bill",
+            "新增帳單"
+        ],
+        "Status": [
+            "%%",
+            "狀態"
+        ],
+        "Title": [
+            "%%",
+            "標題"
+        ],
+        "No": [
+            "No.",
+            "編號"
+        ],
+        "Subtotal": [
+            "%%",
+            "小計"
+        ],
+        "Total": [
+            "%%",
+            "帳單總金額"
+        ],
+        "Memo": [
+            "%%",
+            "備註"
+        ],
+        "Vendor": [
+            "Vendor",
+            "廠商"
+        ],
+        "Date": [
+            "Date",
+            "帳單日期"
+        ],
+        "BillDate": [
+            "Billing Date",
+            "帳單日期"
+        ],
+        "BillExpiredDate": [
+            "Due Date",
+            "付款期限"
+        ],
+        "RecordPayment": [
+            "Record Payment",
+            "記錄付款資訊"
+        ],
+        "Item": [
+            "%%",
+            "帳單項目"
+        ],
+        "Description": [
+            "%%",
+            "說明"
+        ],
+        "Quantity": [
+            "%%",
+            "數量"
+        ],
+        "Price": [
+            "%%",
+            "單價"
+        ],
+        "Tax": [
+            "%%",
+            "稅項"
+        ],
+        "Amount": [
+            "%%",
+            "金額"
+        ],
+        "AddItem": [
+            "Add Item",
+            "新增帳單項目"
+        ],
         "DeleteBill": [
             "Delete Bill",
             "刪除帳單"
