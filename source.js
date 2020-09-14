@@ -102,6 +102,10 @@ var data = {
             "%%",
             "儲存"
         ],
+        "Edit": [
+            "%%",
+            "編輯"
+        ],
         "Confirm": [
             "%%",
             "確認"
@@ -126,6 +130,10 @@ var data = {
             "%%",
             "更多"
         ],
+        "View": [
+            "%%",
+            "瀏覽"
+        ],
         "Duplicate": [
             "%%",
             "複製"
@@ -137,6 +145,14 @@ var data = {
         "Print": [
             "%%",
             "列印"
+        ],
+        "Search": [
+            "%%",
+            "搜尋"
+        ],
+        "ClearAll": [
+            "Clear All",
+            "清除篩選條件"
         ]
     },
     "ContactInfo": {
@@ -235,6 +251,25 @@ var data = {
         "SameAsBilling": [
             "Same as billing address",
             "同聯絡資訊及帳單地址"
+        ],
+        "Memo": [
+            "##",
+            "備註"
+        ],
+        "BillingInfo": [
+            "Billing Info",
+            "帳單資訊"
+        ],
+        "ShippingInfo": [
+            "Shipping Info",
+            "收件資訊"
+        ],
+        "ShippingName": [
+            "Shipping Name",
+            "收件人"
+        ],
+        "SearchNote": [
+            "Quickly add Customer Info"
         ]
     },
     "Auth": {
@@ -504,6 +539,10 @@ var data = {
             "%%",
             "提出"
         ],
+        "Journal": [
+            "%%",
+            "日記帳"
+        ],
         "PaymentAccount": [
             "Payment Account",
             "付款帳戶"
@@ -559,6 +598,14 @@ var data = {
         "Amount": [
             "%%",
             "交易金額"
+        ],
+        "Taxes": [
+            "%%",
+            "附加稅項"
+        ],
+        "TaxesIncluded": [
+            "Taxes included:",
+            "稅額："
         ],
         "Category": [
             "%%",
@@ -661,6 +708,14 @@ var data = {
         "ArchiveAccountNote": [
             "You will still be able to generate reports for this account## and all previously categorized transactions will remain unchanged.",
             "封存不影響既有之交易紀錄與報表統計，欲刪除此科目請先移除相關之交易紀錄或調整至其他科目。"
+        ],
+        "DeleteAccount": [
+            "Delete Account",
+            "刪除此科目"
+        ],
+        "ConfirmDeleteAccount": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "MyBizes": {
@@ -679,6 +734,14 @@ var data = {
         "EditBiz": [
             "Edit Business Information",
             "編輯單位資訊"
+        ],
+        "DeleteBiz": [
+            "Delete Business",
+            "刪除此單位"
+        ],
+        "ConfirmDeleteBiz": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Products": {
@@ -705,6 +768,10 @@ var data = {
         "Purchase": [
             "%%",
             "進貨"
+        ],
+        "Memo": [
+            "Memo",
+            "備註"
         ],
         "AddNewProduct": [
             "Add a New Product/Service",
@@ -745,6 +812,14 @@ var data = {
         "SelectAccount": [
             "Select an Account",
             "請選擇科目"
+        ],
+        "DeleteProduct": [
+            "Delete Product",
+            "刪除此項目"
+        ],
+        "ConfirmDeleteProduct": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "EstimatesAndInvoices": {
@@ -791,6 +866,10 @@ var data = {
         "CreateEstimate": [
             "Create an Estimate",
             "新增報價單"
+        ],
+        "CreateInvoice": [
+            "Create an Invoice",
+            "新增請款單"
         ],
         "Item": [
             "%%",
@@ -857,7 +936,7 @@ var data = {
             "分享報價單"
         ],
         "ShareHint": [
-            "Your customer can view the invoice at this link:",
+            "Your customer can view the estimate at this link:",
             "透過下面的連結，將此報價單分享給客戶："
         ],
         "PreviewInNewWindow": [
@@ -885,7 +964,7 @@ var data = {
             "寄送給此報價單客戶（{customerName}）"
         ],
         "OtherContact": [
-            "Enter recipient email.## Separate each address with a comma.",
+            "Enter recipient email. Separate each address with a comma.",
             "輸入收件者 Email，以半形逗號(##)或換行分隔不同收件者"
         ],
         "SendCopy": [
@@ -960,6 +1039,10 @@ var data = {
             "Share invoice",
             "分享請款單"
         ],
+        "ShareInvoiceHint": [
+            "Your customer can view the invoice at this link:",
+            "透過下面的連結，將此請款單分享給客戶："
+        ],
         "SendVia2SUMUP": [
             "Send via 2SUMUP",
             "轉寄"
@@ -1007,12 +1090,32 @@ var data = {
         "PaymentAccount": [
             "Payment account",
             "收款帳戶"
+        ],
+        "DeleteEstimate": [
+            "Delete Estimate",
+            "刪除報價單"
+        ],
+        "ConfirmDeleteEstimate": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
+        ],
+        "DeleteInvoice": [
+            "Delete Invoice",
+            "刪除請款單"
+        ],
+        "ConfirmDeleteInvoice": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Receipts": {
         "Receipt": [
             "Receipts",
             "收據/發票"
+        ],
+        "AddReceipt": [
+            "Add a Receipt",
+            "新增收據/發票"
         ],
         "Date": [
             "%%",
@@ -1022,23 +1125,19 @@ var data = {
             "%%",
             "廠商"
         ],
-        "ExpenseAccount": [
-            "Expense Account",
-            "支出項目"
-        ],
         "PaymentAccount": [
             "Payment Account",
             "付款帳戶"
+        ],
+        "ExpenseAccount": [
+            "Expense Account",
+            "支出科目"
         ],
         "Amount": [
             "%%",
             "金額"
         ],
         "UploadReceipt": [
-            "Upload a receipt",
-            "上傳收據/發票"
-        ],
-        "UploadImage": [
             "Upload receipt image",
             "上傳收據/發票圖片"
         ],
@@ -1057,6 +1156,14 @@ var data = {
         "AfterTaxAmount": [
             "After tax",
             "含稅總金額"
+        ],
+        "DeleteReceipt": [
+            "Delete Receipt",
+            "刪除收據/發票"
+        ],
+        "ConfirmDeleteReceipt": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Customers": {
@@ -1075,6 +1182,14 @@ var data = {
         "SearchNote": [
             "Quickly add Customer Info by 2SUMUP ID:",
             "若客戶有提供 2SUMUP ID，可查詢帶入資料："
+        ],
+        "DeleteCustomer": [
+            "Delete Customer",
+            "刪除客戶"
+        ],
+        "ConfirmDeleteCustomer": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Vendors": {
@@ -1089,6 +1204,14 @@ var data = {
         "EditVendor": [
             "Edit Vendor Info",
             "編輯廠商資訊"
+        ],
+        "DeleteVendor": [
+            "Delete Vendor",
+            "刪除廠商"
+        ],
+        "ConfirmDeleteVendor": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Taxes": {
@@ -1125,8 +1248,16 @@ var data = {
             "請輸入不含百分比符號之數字，可包含小數點"
         ],
         "RateNote": [
-            "For data consistency##tax rate CANNOT be modified after created.",
+            "For data consistency## tax rate CANNOT be modified after created.",
             "為確保資料一致性，稅率設定後不可修改，若需調整稅率請新增稅項。"
+        ],
+        "DeleteTax": [
+            "Delete Tax",
+            "刪除稅項"
+        ],
+        "ConfirmDeleteTax": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Status": {
@@ -1154,6 +1285,10 @@ var data = {
             "%%",
             "已結清"
         ],
+        "Unpaid": [
+            "%%",
+            "未付款"
+        ],
         "Overdue": [
             "%%",
             "已逾期"
@@ -1173,6 +1308,14 @@ var data = {
         "Bill": [
             "Bills",
             "帳單"
+        ],
+        "DeleteBill": [
+            "Delete Bill",
+            "刪除帳單"
+        ],
+        "ConfirmDeleteBill": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Reports": {
@@ -1185,6 +1328,28 @@ var data = {
         "Settings": [
             "%%",
             "系統設定"
+        ],
+        "UserManagement": [
+            "User Management",
+            "使用者管理"
+        ],
+        "SiteLanguage": [
+            "Site Language",
+            "語言設定"
+        ],
+        "DataExport": [
+            "Data Export",
+            "資料匯出"
+        ]
+    },
+    "Table": {
+        "ItemsPerPage": [
+            "Items Per Page:",
+            "每頁顯示數量："
+        ],
+        "NoData": [
+            "No data available.",
+            "尚無資料。"
         ]
     }
 }
