@@ -571,22 +571,6 @@ var data = {
             "%%",
             "篩選"
         ],
-        "IncludeTax": [
-            "Include tax",
-            "內含稅額"
-        ],
-        "BeforeTaxAmount": [
-            "Before tax",
-            "稅前金額"
-        ],
-        "TaxAmount": [
-            "Tax amount",
-            "總稅額"
-        ],
-        "AfterTaxAmount": [
-            "After tax",
-            "含稅總金額"
-        ],
         "Date": [
             "%%",
             "交易日期"
@@ -601,11 +585,27 @@ var data = {
         ],
         "Taxes": [
             "%%",
-            "附加稅項"
+            "交易內含稅項"
         ],
         "TaxesIncluded": [
             "Taxes included:",
-            "稅額："
+            "內含稅額："
+        ],
+        "Detail": [
+            "%%",
+            "細項稅額"
+        ],
+        "BeforeTaxAmount": [
+            "Before tax",
+            "稅前金額"
+        ],
+        "TaxAmount": [
+            "Tax amount",
+            "總稅額"
+        ],
+        "AfterTaxAmount": [
+            "After tax",
+            "含稅總金額"
         ],
         "Category": [
             "%%",
@@ -1302,6 +1302,70 @@ var data = {
         "Dashboard": [
             "%%",
             "總覽"
+        ],
+        "AddItem": [
+            "Add a New...",
+            "新增..."
+        ],
+        "Shortcuts": [
+            "Shortcuts",
+            "快速連結"
+        ],
+        "Shortcut1": [
+            "Estimate List",
+            "報價單列表"
+        ],
+        "Shortcut2": [
+            "Invoice List",
+            "請款單列表"
+        ],
+        "Shortcut3": [
+            "Bill List",
+            "帳單列表"
+        ],
+        "Shortcut4": [
+            "Invite a Collaborator",
+            "邀請使用者"
+        ],
+        "Shortcut5": [
+            "Change Site Language",
+            "變更語言"
+        ],
+        "Shortcut6": [
+            "Accounting Firm Info",
+            "合作事務所資訊"
+        ],
+        "OverdueInvoiceAndBills": [
+            "Overdue Invoices & Bills",
+            "逾期帳務"
+        ],
+        "OverdueInvoice": [
+            "Overdue Invoices",
+            "逾期請款單"
+        ],
+        "OverdueBills": [
+            "Overdue Bills",
+            "逾期帳單"
+        ],
+        "AllInvoices": [
+            "See all invoices",
+            "查看全部請款單"
+        ],
+        "AllBills": [
+            "See all bills",
+            "查看全部帳單"
+        ],
+        "SummaryOfInvoiceAndBills": [
+            "Summary Of Invoice & Bills",
+            "單據摘要"
+        ],
+        "NumberOf": [
+            "#",
+            "數量"
+        ],
+        "Total": [
+            "%%",
+            "加總金額"
         ]
     },
     "Bills": {
