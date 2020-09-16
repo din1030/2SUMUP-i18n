@@ -1491,5 +1491,11 @@ var data = {
             "No data available.",
             "尚無資料。"
         ]
+    },
+    "Form": {
+        "Required": [
+            "%%.",
+            "此為必填欄位"
+        ]
     }
 }

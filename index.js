@@ -15,8 +15,8 @@ for (var section in data) {
     }
 }
 
-var ph1 = ['Vendor', 'Customer', 'Tax', 'Account', 'Date', 'DateRange', 'Status', 'Country', 'Currency', 'Timezone', 'ProductAndService'];
-var ph2 = ['廠商', '客戶', '稅項', '科目', '日期', '日期區間', '狀態', '國家', '使用幣別', '公司所在時區', '商品或服務'];
+var ph1 = ['Vendor', 'Customer', 'Tax', 'Account', 'Date', 'DateRange', 'Status', 'Country', 'Currency', 'Timezone', 'ProductAndService', 'Industry'];
+var ph2 = ['廠商', '客戶', '稅項', '科目', '日期', '日期區間', '狀態', '國家', '使用幣別', '公司所在時區', '商品或服務', '產業別'];
 tw['Placeholder'] = {};
 en['Placeholder'] = {};
 for (var i = 0; i < ph1.length; i++) {
