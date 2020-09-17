@@ -1413,6 +1413,10 @@ var data = {
             "Billing Date",
             "帳單日期"
         ],
+        "ExpenseAccount": [
+            "Expense Account",
+            "支出科目"
+        ],
         "BillExpiredDate": [
             "Due Date",
             "付款期限"
@@ -1496,6 +1500,12 @@ var data = {
         "Required": [
             "%%.",
             "此為必填欄位"
+        ]
+    },
+    "Messages": {
+        "VerificationSucceed": [
+            "Successfully verified! Please log in again.",
+            "驗證成功！請重新登入。"
         ]
     }
 }
