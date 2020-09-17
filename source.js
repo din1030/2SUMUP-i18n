@@ -1311,27 +1311,27 @@ var data = {
             "Shortcuts",
             "快速連結"
         ],
-        "Shortcut1": [
+        "EstimateList": [
             "Estimate List",
             "報價單列表"
         ],
-        "Shortcut2": [
+        "InvoiceList": [
             "Invoice List",
             "請款單列表"
         ],
-        "Shortcut3": [
+        "BillList": [
             "Bill List",
             "帳單列表"
         ],
-        "Shortcut4": [
+        "InviteCollaborator": [
             "Invite a Collaborator",
             "邀請使用者"
         ],
-        "Shortcut5": [
+        "ChangeLanguage": [
             "Change Site Language",
             "變更語言"
         ],
-        "Shortcut6": [
+        "AccountingFirm": [
             "Accounting Firm Info",
             "合作事務所資訊"
         ],
