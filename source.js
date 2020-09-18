@@ -781,6 +781,10 @@ var data = {
             "Add a New Product/Service",
             "新增商品或服務"
         ],
+        "EditProduct": [
+            "Edit Product/Service",
+            "編輯商品或服務"
+        ],
         "EditNote": [
             "Products and services bought from vendors are used as Bill items to record purchases## and the ones sell to customers are used as Invoice items to record sales.",
             "建立商品或服務可讓您在編輯請款單及帳單時快速引入資訊。"
@@ -1018,6 +1022,10 @@ var data = {
         "CreateOtherInvoice": [
             "Create other invoice",
             "新增其他請款單"
+        ],
+        "EditEstimate": [
+            "Edit estimate",
+            "編輯報價單"
         ],
         "EditInvoice": [
             "Edit invoice",
