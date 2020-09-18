@@ -1311,6 +1311,10 @@ var data = {
             "Shortcuts",
             "快速連結"
         ],
+        "GoTo": [
+            "Go to:",
+            "前往："
+        ],
         "EstimateList": [
             "Estimate List",
             "報價單列表"
