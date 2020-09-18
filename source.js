@@ -22,7 +22,7 @@ var data = {
         ],
         "CustomerInfo": [
             "Customers",
-            "顧客資料"
+            "客戶資料"
         ],
         "ProductAndService": [
             "Products/Services",
@@ -380,6 +380,10 @@ var data = {
         "VerifiedDescription": [
             "Tell us about you and your business",
             "填寫您的單位資訊，馬上使用 2SUMUP!"
+        ],
+        "FillBizInfo": [
+            "Fill Business Info",
+            "填寫單位資訊"
         ]
     },
     "AccountGroups": {
@@ -1169,7 +1173,7 @@ var data = {
     "Customers": {
         "CustomerInfo": [
             "Customers",
-            "顧客資料"
+            "客戶資料"
         ],
         "AddCustomer": [
             "Add a Customer",
