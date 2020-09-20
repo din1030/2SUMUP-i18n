@@ -153,6 +153,10 @@ var data = {
         "ClearAll": [
             "Clear All",
             "清除篩選條件"
+        ],
+        "Convert": [
+            "%%",
+            "轉換"
         ]
     },
     "ContactInfo": {
@@ -828,6 +832,10 @@ var data = {
         "ConfirmDeleteProduct": [
             "Confirm the delete action. This cannot be undone.",
             "刪除資料後無法回復，請再次確認。"
+        ],
+        "AddNewAccount": [
+            "Add New Account",
+            "新增入帳科目"
         ]
     },
     "EstimatesAndInvoices": {
@@ -935,6 +943,10 @@ var data = {
             "Convert To Invoice",
             "轉換為請款單"
         ],
+        "ConvertHint": [
+            "This will create an invoice with the estimate content.",
+            "確認將此報價單轉換成請款單？"
+        ],
         "SendEstimate": [
             "Send Estimate",
             "寄送報價單"
@@ -992,7 +1004,7 @@ var data = {
             "請款總金額"
         ],
         "OutstandingPayment": [
-            "Outstanding payment",
+            "Outstanding Payment",
             "尚未收款金額"
         ],
         "Unpaid": [
@@ -1092,7 +1104,7 @@ var data = {
             "收件者"
         ],
         "PaymentDate": [
-            "Payment date",
+            "Payment Date",
             "收款日期"
         ],
         "PaymentAmount": [
@@ -1100,8 +1112,12 @@ var data = {
             "收款金額"
         ],
         "PaymentAccount": [
-            "Payment account",
+            "Payment Account",
             "收款帳戶"
+        ],
+        "Notes": [
+            "Note",
+            "備註"
         ],
         "DeleteEstimate": [
             "Delete Estimate",
