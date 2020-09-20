@@ -1020,27 +1020,31 @@ var data = {
             "全部"
         ],
         "RecordPaymentReceived": [
-            "Record payment received",
+            "Record Payment Received",
             "記錄收款資訊"
         ],
         "SendReminder": [
-            "Send reminder",
+            "Send Reminder",
             "寄送付款提醒"
+        ],
+        "SendReminderHint": [
+            "Are you sure to send a payment reminder to {customer}?",
+            "是否寄送付款提醒給{customer}？"
         ],
         "Approve": [
             "%%",
             "核准請款"
         ],
         "CreateOtherInvoice": [
-            "Create other invoice",
+            "Create Other Invoice",
             "新增其他請款單"
         ],
         "EditEstimate": [
-            "Edit estimate",
+            "Edit Estimate",
             "編輯報價單"
         ],
         "EditInvoice": [
-            "Edit invoice",
+            "Edit Invoice",
             "編輯請款單"
         ],
         "SendingHistory": [
@@ -1056,11 +1060,11 @@ var data = {
             "尚未寄送"
         ],
         "SendInvoice": [
-            "Send invoice",
+            "Send Invoice",
             "寄送請款單"
         ],
         "ShareInvoice": [
-            "Share invoice",
+            "Share Invoice",
             "分享請款單"
         ],
         "ShareInvoiceHint": [
@@ -1080,19 +1084,23 @@ var data = {
             "標示為已寄出"
         ],
         "GetPaid": [
-            "Get paid",
+            "Get Paid",
             "收款記錄"
         ],
         "SendReceipt": [
-            "Send receipt",
+            "Send Receipt",
             "寄送收據"
         ],
+        "SendReceiptHint": [
+            "Are you sure to send receipt for this payment to {customer}?",
+            "是否寄送此筆收款紀錄收據給{customer}？"
+        ],
         "EditPayment": [
-            "Edit payment transaction",
+            "Edit Payment Transaction",
             "編輯收款交易"
         ],
         "DeletePayment": [
-            "Delete payment transaction",
+            "Delete Payment Transaction",
             "刪除收款交易"
         ],
         "PaymentHistoryFormat": [
