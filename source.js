@@ -1540,6 +1540,18 @@ var data = {
         "Required": [
             "%%.",
             "此為必填欄位"
+        ],
+        "InvalidEmail": [
+            "Invalid Email Address.",
+            "無效的 Email"
+        ],
+        "InvalidPassword": [
+            "Your password must be 8-16 characters## and include at least one lowercase letter#3 one uppercase letter## and a number.",
+            "密碼必須包含大小寫英文及數字，長度 8-16"
+        ],
+        "InvalidRate": [
+            "Tax rate % must be between 0 and 100.",
+            "稅率需介於 0 與 100 之間"
         ]
     },
     "Messages": {
