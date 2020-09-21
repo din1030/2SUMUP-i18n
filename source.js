@@ -1417,6 +1417,10 @@ var data = {
             "Add a Bill",
             "新增帳單"
         ],
+        "EditBill": [
+            "Edit Bill",
+            "編輯帳單"
+        ],
         "Status": [
             "%%",
             "狀態"
