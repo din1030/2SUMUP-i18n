@@ -1153,6 +1153,10 @@ var data = {
             "Add a Receipt",
             "新增收據/發票"
         ],
+        "EditReceipt": [
+            "Edit Receipt",
+            "編輯收據/發票"
+        ],
         "Date": [
             "%%",
             "日期"
