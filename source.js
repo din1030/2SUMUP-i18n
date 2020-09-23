@@ -1055,6 +1055,10 @@ var data = {
             "Sending History",
             "寄送記錄"
         ],
+        "SendToCustomer": [
+            "Send To Customer",
+            "寄送給客戶"
+        ],
         "LastSent": [
             "Last sent:",
             "最後寄送時間："
