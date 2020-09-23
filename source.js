@@ -1445,6 +1445,10 @@ var data = {
             "%%",
             "小計"
         ],
+        "AmountDue": [
+            "Amount Due",
+            "未付款金額"
+        ],
         "Total": [
             "%%",
             "帳單總金額"
