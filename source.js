@@ -931,6 +931,10 @@ var data = {
             "Footer Text",
             "頁尾文字"
         ],
+        "View": [
+            "Estimate Detail",
+            "報價單內容"
+        ],
         "PreviewAsCustomer": [
             "Preview as Customer",
             "預覽客戶檢視"
