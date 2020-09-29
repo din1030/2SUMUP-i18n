@@ -1520,6 +1520,22 @@ var data = {
         "ConfirmDeleteBill": [
             "Confirm the delete action. This cannot be undone.",
             "刪除資料後無法回復，請再次確認。"
+        ],
+        "PaymentDate": [
+            "Payment Date",
+            "付款日期"
+        ],
+        "PaymentAmount": [
+            "Amount",
+            "付款金額"
+        ],
+        "PaymentAccount": [
+            "Payment Account",
+            "付款帳戶"
+        ],
+        "Notes": [
+            "Note",
+            "備註"
         ]
     },
     "Reports": {
