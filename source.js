@@ -514,6 +514,120 @@ var data = {
             "保留盈餘或累積虧損"
         ]
     },
+    "Accounts": {
+        "CashOnHand": [
+            "Cash on Hand",
+            "庫存現金"
+        ],
+        "CashInBanks": [
+            "Cash in Banks",
+            "銀行存款"
+        ],
+        "DepositAccount": [
+            "Deposit Account",
+            "定期存款"
+        ],
+        "CashInTransit": [
+            "Cash in Transit",
+            "在途現金"
+        ],
+        "AccountsReceivable": [
+            "Accounts Receivable",
+            "應收帳款"
+        ],
+        "NotesReceivable": [
+            "Notes Receivable",
+            "應收票據"
+        ],
+        "MerchandiseInventory": [
+            "Merchandise Inventory",
+            "商品存貨"
+        ],
+        "ShortTermDebt": [
+            "Short-Term Debt",
+            "短期借款"
+        ],
+        "AccountsPayable": [
+            "Accounts Payable",
+            "應付帳款"
+        ],
+        "NotesPayable": [
+            "Notes Payable",
+            "應付票據"
+        ],
+        "LongTermDebtPayable": [
+            "Long-Term Debt Payable",
+            "長期借款"
+        ],
+        "ServiceRevenue": [
+            "ServiceRevenue",
+            "勞務收入"
+        ],
+        "SalesRevenue": [
+            "SalesRevenue",
+            "銷貨收入"
+        ],
+        "Purchases": [
+            "Purchases",
+            "進貨"
+        ],
+        "PurchaseExpenses": [
+            "Purchase Expenses",
+            "進貨費用"
+        ],
+        "PayrollExpense": [
+            "Payroll Expense",
+            "薪資支出"
+        ],
+        "RentExpense": [
+            "Rent Expense",
+            "租金支出"
+        ],
+        "SuppliesExpense": [
+            "Supplies Expense",
+            "文具用品"
+        ],
+        "TravellingExpense": [
+            "Travelling Expense",
+            "旅費"
+        ],
+        "ShippingExpense": [
+            "Shipping Expense",
+            "運費"
+        ],
+        "PostageExpense": [
+            "Postage Expense",
+            "郵電費"
+        ],
+        "RepairsAndMaintenance": [
+            "Repairs and Maintenance",
+            "修繕費"
+        ],
+        "AdvertisementExpense": [
+            "Advertisement Expense",
+            "廣告費"
+        ],
+        "UtilitiesExpense": [
+            "Utilities Expense",
+            "水電瓦斯費"
+        ],
+        "InsuranceExpense": [
+            "Insurance Expense",
+            "保險費"
+        ],
+        "EntertainmentExpense": [
+            "Entertainment Expense",
+            "交際費"
+        ],
+        "DonationExpense": [
+            "Donation Expense",
+            "捐增"
+        ],
+        "Taxes": [
+            "Taxes",
+            "稅捐"
+        ]
+    },
     "Transactions": {
         "Transactions": [
             "%%",
