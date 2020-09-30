@@ -560,11 +560,11 @@ var data = {
             "長期借款"
         ],
         "ServiceRevenue": [
-            "ServiceRevenue",
+            "Service Revenue",
             "勞務收入"
         ],
         "SalesRevenue": [
-            "SalesRevenue",
+            "Sales Revenue",
             "銷貨收入"
         ],
         "Purchases": [
