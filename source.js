@@ -796,6 +796,14 @@ var data = {
         "UnbalancedNote": [
             "Unbalanced transaction!",
             "借貸項目未平衡！"
+        ],
+        "DeleteTransaction": [
+            "Delete Transaction",
+            "刪除此交易紀錄"
+        ],
+        "ConfirmDeleteTransaction": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "ChartOfAccounts": {
@@ -1171,7 +1179,7 @@ var data = {
         ],
         "SendingHistory": [
             "Sending History",
-            "寄送記錄"
+            "寄送紀錄"
         ],
         "SendToCustomer": [
             "Send To Customer",
@@ -1211,7 +1219,7 @@ var data = {
         ],
         "GetPaid": [
             "Get Paid",
-            "收款記錄"
+            "收款紀錄"
         ],
         "SendReceipt": [
             "Send Receipt",
