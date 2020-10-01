@@ -461,6 +461,10 @@ var data = {
             "Long Term Liabilities",
             "長期負債"
         ],
+        "SalesTaxes": [
+            "Sales Taxes",
+            "營業稅"
+        ],
         "OtherLiabilities": [
             "Other Liabilities",
             "其他負債"
