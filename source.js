@@ -1654,6 +1654,10 @@ var data = {
         "Notes": [
             "Note",
             "備註"
+        ],
+        "PaymentRecords": [
+            "Payment Records",
+            "付款紀錄"
         ]
     },
     "Reports": {
