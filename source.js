@@ -799,11 +799,15 @@ var data = {
         ],
         "DeleteTransaction": [
             "Delete Transaction",
-            "刪除此交易紀錄"
+            "刪除交易紀錄"
         ],
         "ConfirmDeleteTransaction": [
             "Confirm the delete action. This cannot be undone.",
             "刪除資料後無法回復，請再次確認。"
+        ],
+        "BatchDeleteTransaction": [
+            "Confirm the delete action. This cannot be undone.",
+            "即將刪除勾選交易紀錄，此動作無法回復，請再次確認。"
         ]
     },
     "ChartOfAccounts": {
