@@ -388,6 +388,10 @@ var data = {
         "FillBizInfo": [
             "Fill Business Info",
             "填寫單位資訊"
+        ],
+        "CurrencyNote": [
+            "For data consistency## currency CANNOT be changed after your business account created in 2sumup.",
+            "由於報表一致性，單位所使用幣別設定後無法修改。"
         ]
     },
     "AccountGroups": {
