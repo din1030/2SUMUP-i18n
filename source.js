@@ -1721,8 +1721,57 @@ var data = {
             "Trial Balance",
             "試算表"
         ],
-        "Cash": [{},
-            {}
+        "CashFlow": [
+            "Cash Flow",
+            "現金流量表"
+        ],
+        "GenerateReport": [
+            "Generate Report",
+            "產製報表"
+        ],
+        "Date": [
+            "%%",
+            "日期"
+        ],
+        "Description": [
+            "%%",
+            "摘要"
+        ],
+        "Debit": [
+            "%%",
+            "借方金額"
+        ],
+        "Credit": [
+            "%%",
+            "貸方金額"
+        ],
+        "Balance": [
+            "%%",
+            "餘額"
+        ],
+        "StartingBalance": [
+            "",
+            "期初餘額"
+        ],
+        "EndingBalance": [
+            "Ending Balance",
+            "期末餘額"
+        ],
+        "BalanceChange": [
+            "Balance Change",
+            "期間變動"
+        ],
+        "Under": [
+            "Category:",
+            "科目分類："
+        ],
+        "NetMovement": [
+            "Net Movement",
+            "淨變動"
+        ],
+        "TotalForAllAccounts": [
+            "Total for All Accounts",
+            "所有科目加總"
         ]
     },
     "Settings": {
