@@ -1680,6 +1680,49 @@ var data = {
         "Report": [
             "Reports",
             "報表"
+        ],
+        "AccountTransactions": [
+            "Account Transactions (General Ledger)",
+            "總分類帳"
+        ],
+        "AccountBalances": [
+            "Account Balances",
+            "帳戶餘額"
+        ],
+        "IncomeByCustomer": [
+            "Income by Customer",
+            "客戶營收統計"
+        ],
+        "AgedReceivables": [
+            "Aged Receivables",
+            "應收帳款帳齢分析"
+        ],
+        "PurchasesByVendor": [
+            "Purchases by Vendor",
+            "廠商進貨統計"
+        ],
+        "AgedPayables": [
+            "Aged Payables",
+            "應付帳款帳齢分析"
+        ],
+        "SalesTaxes": [
+            "Sales Taxes",
+            "營業稅統計"
+        ],
+        "IncomeStatements": [
+            "Income Statements",
+            "損益表"
+        ],
+        "BalanceSheet": [
+            "Balance Sheet",
+            "資產負債表"
+        ],
+        "TrialBalance": [
+            "Trial Balance",
+            "試算表"
+        ],
+        "Cash": [{},
+            {}
         ]
     },
     "Settings": {
