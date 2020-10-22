@@ -271,9 +271,6 @@ var data = {
         "ShippingName": [
             "Shipping Name",
             "收件人"
-        ],
-        "SearchNote": [
-            "Quickly add Customer Info"
         ]
     },
     "Auth": {
