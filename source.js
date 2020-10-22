@@ -1772,6 +1772,38 @@ var data = {
         "TotalForAllAccounts": [
             "Total for All Accounts",
             "所有科目加總"
+        ],
+        "CustomerName": [
+            "Customer Name",
+            "客戶名稱"
+        ],
+        "AllIncome": [
+            "All Income",
+            "客戶營收金額"
+        ],
+        "PaidIncome": [
+            "Paid Income",
+            "客戶已付金額"
+        ],
+        "TotalIncome": [
+            "Total Income",
+            "營收總額"
+        ],
+        "VendorName": [
+            "Vendor Name",
+            "廠商名稱"
+        ],
+        "AllPurchases": [
+            "All Purchases",
+            "廠商進貨總額"
+        ],
+        "PaidPurchases": [
+            "Paid Purchases",
+            "進貨已付金額"
+        ],
+        "TotalPurchases": [
+            "Total Purchases",
+            "進貨總額"
         ]
     },
     "Settings": {
