@@ -1801,6 +1801,42 @@ var data = {
         "TotalPurchases": [
             "Total Purchases",
             "進貨總額"
+        ],
+        "NumberOfDaysOverdue": [
+            "Number of Days Overdue",
+            "逾期天數"
+        ],
+        "NotYetOverdue": [
+            "Not Yet Overdue",
+            "尚未逾期"
+        ],
+        "30orLess": [
+            "30 or Less",
+            "30 天以下"
+        ],
+        "31to60": [
+            "31 to 60",
+            "31 天 ～ 60 天"
+        ],
+        "61to90": [
+            "61 to 90",
+            "61 天 ～ 90 天"
+        ],
+        "91orMore": [
+            "91 or More",
+            "91 天以上"
+        ],
+        "TotalUnpaid": [
+            "Total Unpaid",
+            "未付總額"
+        ],
+        "InvoiceAmount": [
+            "invoice(s)",
+            "張請款單"
+        ],
+        "Overdue": [
+            "%%",
+            "已逾期"
         ]
     },
     "Settings": {
