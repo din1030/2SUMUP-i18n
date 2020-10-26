@@ -1837,6 +1837,10 @@ var data = {
         "Overdue": [
             "%%",
             "已逾期"
+        ],
+        "Custom": [
+            "%%",
+            "自訂"
         ]
     },
     "Settings": {
