@@ -1879,7 +1879,7 @@ var data = {
             "稅額科目變化"
         ],
         "TaxPaymentToGovernment": [
-            "T\bax Payments to Government",
+            "Tax Payments to Government",
             "已納稅額"
         ]
     },
