@@ -1692,7 +1692,7 @@ var data = {
         ],
         "AgedReceivables": [
             "Aged Receivables",
-            "應收帳款帳齢分析"
+            "應收帳款帳齡分析"
         ],
         "PurchasesByVendor": [
             "Purchases by Vendor",
@@ -1700,7 +1700,7 @@ var data = {
         ],
         "AgedPayables": [
             "Aged Payables",
-            "應付帳款帳齢分析"
+            "應付帳款帳齡分析"
         ],
         "SalesTaxes": [
             "Sales Taxes",
@@ -1747,7 +1747,7 @@ var data = {
             "餘額"
         ],
         "StartingBalance": [
-            "",
+            "Starting Balance",
             "期初餘額"
         ],
         "EndingBalance": [
@@ -1834,6 +1834,10 @@ var data = {
             "invoice(s)",
             "張請款單"
         ],
+        "BillAmount": [
+            "bill(s)",
+            "張帳單"
+        ],
         "Overdue": [
             "%%",
             "已逾期"
@@ -1841,6 +1845,42 @@ var data = {
         "Custom": [
             "%%",
             "自訂"
+        ],
+        "SalesAndPurchases": [
+            "Sales & Purchases",
+            "進項及銷項"
+        ],
+        "TaxName": [
+            "Tax",
+            "稅項"
+        ],
+        "SalesSubjectToTax": [
+            "Sales Subject to Tax",
+            "應稅銷售額"
+        ],
+        "TaxAmountOnSales": [
+            "Tax Amount on Sales",
+            "銷項稅額"
+        ],
+        "PurchasesSubjectToTax": [
+            "Purchases Subject to Tax",
+            "應稅進貨金額"
+        ],
+        "TaxAmountOnPurchases": [
+            "Tax Amount on Purchases",
+            "進項稅額"
+        ],
+        "NetTaxOwing": [
+            "Net Tax Owing",
+            "應納稅額"
+        ],
+        "PaymentsBalancesOwing": [
+            "Payments & Balances Owing",
+            "稅額科目變化"
+        ],
+        "TaxPaymentToGovernment": [
+            "T\bax Payments to Government",
+            "已納稅額"
         ]
     },
     "Settings": {
