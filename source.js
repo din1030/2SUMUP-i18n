@@ -1881,6 +1881,14 @@ var data = {
         "TaxPaymentToGovernment": [
             "Tax Payments to Government",
             "已納稅額"
+        ],
+        "AccountName": [
+            "Account",
+            "科目"
+        ],
+        "Total": [
+            "%%",
+            "總額"
         ]
     },
     "Settings": {
