@@ -319,7 +319,7 @@ var data = {
             "限時免費註冊"
         ],
         "ServiceIntroduction": [
-            "Service Introduction",
+            "An Accounting Tool for Everyone",
             "服務簡述"
         ],
         "Continue": [
@@ -1671,6 +1671,18 @@ var data = {
         "PaymentRecords": [
             "Payment Records",
             "付款紀錄"
+        ],
+        "AddBillForInvoice": [
+            "Add a Bill for This Invoice",
+            "新增此請款單之帳單"
+        ],
+        "ExchangeRate": [
+            "Exchange Rate",
+            "幣值轉換匯率"
+        ],
+        "FXHint": [
+            "If you would like to create bill with invoice currency## please fill exchange rate.",
+            "如希望按原請款單之幣別填寫價格請輸入換算匯率。"
         ]
     },
     "Reports": {
