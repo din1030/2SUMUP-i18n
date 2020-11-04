@@ -466,6 +466,10 @@ var data = {
             "Sales Taxes",
             "營業稅"
         ],
+        "SaleTaxes": [
+            "Sales Taxes",
+            "營業稅"
+        ],
         "OtherLiabilities": [
             "Other Liabilities",
             "其他負債"
