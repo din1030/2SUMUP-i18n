@@ -1206,6 +1206,10 @@ var data = {
             "Send Invoice",
             "寄送請款單"
         ],
+        "SendInvoiceToCustomer": [
+            "Send to the customer ({customerName}).",
+            "寄送給此請款單客戶（{customerName}）"
+        ],
         "ShareInvoice": [
             "Share Invoice",
             "分享請款單"
