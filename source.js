@@ -1691,6 +1691,30 @@ var data = {
         "FXHint": [
             "If you would like to create bill with invoice currency## please fill exchange rate.",
             "如希望按原請款單之幣別填寫價格請輸入換算匯率。"
+        ],
+        "ReceivedInvoices": [
+            "Received Invoices",
+            "收到的請款單"
+        ],
+        "VendorName": [
+            "Vendor",
+            "廠商名稱"
+        ],
+        "Currency": [
+            "Bill Currency",
+            "帳單幣別"
+        ],
+        "AddVendor": [
+            "Create new vendor from bill info",
+            "根據請款單資訊建立新廠商"
+        ],
+        "CreateVendor": [
+            "Create New Vendor",
+            "建立新廠商"
+        ],
+        "CreateVendorHint": [
+            "This will create a new vendor. Make sure not to create a vendor already exist.",
+            "請避免重複建立廠商資訊，是否要建新增此帳單廠商？"
         ]
     },
     "Reports": {
@@ -1927,6 +1951,40 @@ var data = {
         "DataExport": [
             "Data Export",
             "資料匯出"
+        ]
+    },
+    "Collaborators": {
+        "InviteCollaborator": [
+            "Invite User",
+            "邀請使用者"
+        ],
+        "Name": [
+            "%%",
+            "名稱"
+        ],
+        "Role": [
+            "%%",
+            "權限"
+        ],
+        "Owner": [
+            "%%",
+            "管理者"
+        ],
+        "Collaborator": [
+            "%%",
+            "協作者"
+        ],
+        "Date": [
+            "Join Date",
+            "加入時間"
+        ],
+        "DeleteUser": [
+            "Delete User",
+            "刪除使用者"
+        ],
+        "ConfirmDeleteTax": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
         ]
     },
     "Table": {
