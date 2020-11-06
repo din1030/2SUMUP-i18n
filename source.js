@@ -1974,6 +1974,10 @@ var data = {
             "%%",
             "協作者"
         ],
+        "Inviting": [
+            "Invited",
+            "邀請中"
+        ],
         "Date": [
             "Join Date",
             "加入時間"
