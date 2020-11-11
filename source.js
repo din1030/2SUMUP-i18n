@@ -1997,6 +1997,18 @@ var data = {
         "ConfirmDeleteTax": [
             "Confirm the delete action. This cannot be undone.",
             "刪除資料後無法回復，請再次確認。"
+        ],
+        "InviteCollaboratorHint": [
+            "Welcome to 2sumup! Become a member of {bizName}.",
+            "歡迎使用 2sumup 加入 {bizName} 的管理團隊。"
+        ],
+        "LogInToJoin": [
+            "Log in to join",
+            "登入現有帳號"
+        ],
+        "CreateAccount": [
+            "Create an Account",
+            "註冊新帳號"
         ]
     },
     "Table": {
