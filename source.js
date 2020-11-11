@@ -2009,6 +2009,10 @@ var data = {
         "CreateAccount": [
             "Create an Account",
             "註冊新帳號"
+        ],
+        "BecomeMember": [
+            "Become a Member",
+            "加入團隊"
         ]
     },
     "Table": {
