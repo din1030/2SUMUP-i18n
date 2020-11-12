@@ -2055,6 +2055,10 @@ var data = {
         "VerificationSucceed": [
             "Successfully verified! Please log in again.",
             "驗證成功！請重新登入。"
+        ],
+        "JoinSuccessfully": [
+            "You are a member of {bizName} now!",
+            "您已成功加入 {bizName} 的管理團隊！"
         ]
     }
 }
