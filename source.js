@@ -1056,7 +1056,7 @@ var data = {
         ],
         "Total": [
             "%%",
-            "報價總金額"
+            "總金額"
         ],
         "Memo": [
             "%%",
@@ -1990,11 +1990,19 @@ var data = {
             "Join Date",
             "加入時間"
         ],
-        "DeleteUser": [
+        "DeleteCollaborator": [
             "Delete User",
             "刪除使用者"
         ],
-        "ConfirmDeleteTax": [
+        "ConfirmDeleteCollaborator": [
+            "Confirm the delete action. This cannot be undone.",
+            "刪除資料後無法回復，請再次確認。"
+        ],
+        "DeleteInvitation": [
+            "Delete User Invitation",
+            "刪除使用者邀請"
+        ],
+        "ConfirmDeleteInvitation": [
             "Confirm the delete action. This cannot be undone.",
             "刪除資料後無法回復，請再次確認。"
         ],
