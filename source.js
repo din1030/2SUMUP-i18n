@@ -290,6 +290,10 @@ var data = {
             "Set Password",
             "請設定密碼"
         ],
+        "ConfirmPassword": [
+            "Confirm Password",
+            "請再次輸入密碼"
+        ],
         "ContinueWithGoogle": [
             "Continue with Google",
             "使用 Google 帳號登入"
