@@ -2057,6 +2057,10 @@ var data = {
         "InvalidRate": [
             "Tax rate % must be between 0 and 100.",
             "稅率需介於 0 與 100 之間"
+        ],
+        "PasswordsMustBeSame": [
+            "Passwords must be same!",
+            "密碼不一致"
         ]
     },
     "Messages": {
