@@ -286,6 +286,10 @@ var data = {
             "Enter Password",
             "請輸入密碼"
         ],
+        "SetPassword": [
+            "Set Password",
+            "請設定密碼"
+        ],
         "ContinueWithGoogle": [
             "Continue with Google",
             "使用 Google 帳號登入"
