@@ -245,12 +245,12 @@ var data = {
             "產業別"
         ],
         "2sumupId": [
-            "2SUMUP ID",
-            "2SUMUP ID"
+            "2sumup ID",
+            "2sumup ID"
         ],
         "IDNote": [
-            "You can provide this ID to other 2SUMUP users. Invoices sent via this ID will integrate to your business.",
-            "本 ID 可提供給其他 2SUMUP 使用者，透過 ID 傳送之帳務資訊會自動整合至貴公司之資料，不需手動輸入，節省您的時間。"
+            "You can provide this ID to other 2sumup users. Invoices sent via this ID will integrate to your business.",
+            "本 ID 可提供給其他 2sumup 使用者，透過 ID 傳送之帳務資訊會自動整合至貴公司之資料，不需手動輸入，節省您的時間。"
         ],
         "SameAsBilling": [
             "Same as billing address",
@@ -388,7 +388,7 @@ var data = {
         ],
         "VerifiedDescription": [
             "Tell us about you and your business",
-            "填寫您的單位資訊，馬上使用 2SUMUP!"
+            "填寫您的單位資訊，馬上使用 2sumup!"
         ],
         "FillBizInfo": [
             "Fill Business Info",
@@ -1115,8 +1115,8 @@ var data = {
             "點我複製連結"
         ],
         "PoweredBy": [
-            "Powered By 2SUMUP",
-            "本服務由 2SUMUP 提供"
+            "Powered By 2sumup",
+            "本服務由 2sumup 提供"
         ],
         "From": [
             "From:",
@@ -1227,7 +1227,7 @@ var data = {
             "透過下面的連結，將此請款單分享給客戶："
         ],
         "SendVia2SUMUP": [
-            "Send via 2SUMUP",
+            "Send via 2sumup",
             "轉寄"
         ],
         "GetLink": [
@@ -1375,8 +1375,8 @@ var data = {
             "編輯客戶資訊"
         ],
         "SearchNote": [
-            "Quickly add Customer Info by 2SUMUP ID:",
-            "若客戶有提供 2SUMUP ID，可查詢帶入資料："
+            "Quickly add Customer Info by 2sumup ID:",
+            "若客戶有提供 2sumup ID，可查詢帶入資料："
         ],
         "DeleteCustomer": [
             "Delete Customer",
@@ -2071,6 +2071,38 @@ var data = {
         "JoinSuccessfully": [
             "You are a member of {bizName} now!",
             "您已成功加入 {bizName} 的管理團隊！"
+        ],
+        "SuccessfullyUpdated": [
+            "Successfully updated.",
+            "已更新資訊。"
+        ],
+        "SuccessfullyDeleted": [
+            "Successfully deleted.",
+            "已移除資訊。"
+        ],
+        "SuccessfullyCreated": [
+            "Successfully created.",
+            "已新增資訊。"
+        ],
+        "SuccessfullyDuplicated": [
+            "Successfully duplicated.",
+            "已複製資訊。"
+        ],
+        "SuccessfullySendToCustomer": [
+            "Successfully send to customer.",
+            "已寄出給客戶。"
+        ],
+        "CopyToClipboard": [
+            "Link copied to the clipboard.",
+            "連結已複製。"
+        ],
+        "SuccessfullyConverted": [
+            "Successfully converted to bill.",
+            "已根據報價單資訊建立請款單。"
+        ],
+        "SuccessfullySendInvitation": [
+            "Successfully send the invitation.",
+            "已送出邀請。"
         ]
     }
 }
