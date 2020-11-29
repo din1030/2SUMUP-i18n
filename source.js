@@ -1828,7 +1828,7 @@ var data = {
         ],
         "TotalForAllAccounts": [
             "Total for All Accounts",
-            "所有科目加總"
+            "借貸總額"
         ],
         "CustomerName": [
             "Customer Name",
@@ -1949,6 +1949,30 @@ var data = {
         "Total": [
             "%%",
             "總額"
+        ],
+        "NetProfit": [
+            "Net Profit",
+            "淨利"
+        ],
+        "GrossProfit": [
+            "Gross Profit",
+            "毛利"
+        ],
+        "NetProfitMargin": [
+            "Net Profit Margin",
+            "竟利率"
+        ],
+        "GrossMargin": [
+            "Gross Margin",
+            "毛利率"
+        ],
+        "ShowDetails": [
+            "Show Details",
+            "展開細節"
+        ],
+        "ShowSummary": [
+            "Show Summary",
+            "顯示總覽"
         ]
     },
     "Settings": {
@@ -2103,6 +2127,10 @@ var data = {
         "SuccessfullySendInvitation": [
             "Successfully send the invitation.",
             "已送出邀請。"
+        ],
+        "LeavePageAlert": [
+            "Leave this page without saving?",
+            "資料尚未儲存，是否離開頁面？"
         ]
     }
 }
