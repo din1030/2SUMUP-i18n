@@ -2131,6 +2131,14 @@ var data = {
         "LeavePageAlert": [
             "Leave this page without saving?",
             "資料尚未儲存，是否離開頁面？"
+        ],
+        "ResetLinkSentHint": [
+            "Password reset link sent. Please check your email.",
+            "重設密碼連結已寄至您的電子信箱。"
+        ],
+        "SuccessfullyReset": [
+            "Your password was successfully changed.",
+            "已重設密碼。"
         ]
     }
 }
