@@ -1960,7 +1960,7 @@ var data = {
         ],
         "NetProfitMargin": [
             "Net Profit Margin",
-            "竟利率"
+            "淨利率"
         ],
         "GrossMargin": [
             "Gross Margin",
