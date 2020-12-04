@@ -880,7 +880,7 @@ var data = {
         ],
         "AddBiz": [
             "Add Business",
-            "新增單位"
+            "建立單位"
         ],
         "EditBiz": [
             "Edit Business Information",
@@ -893,6 +893,14 @@ var data = {
         "ConfirmDeleteBiz": [
             "Confirm the delete action. This cannot be undone.",
             "刪除資料後無法回復，請再次確認。"
+        ],
+        "NoBiz": [
+            "Seems you have not join any business yet. Create one!",
+            "您尚未加入單位管理團隊，點選下方按鈕建立新單位。。"
+        ],
+        "SelectBiz": [
+            "Select a business",
+            "選擇單位"
         ]
     },
     "Products": {
