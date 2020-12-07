@@ -901,6 +901,10 @@ var data = {
         "SelectBiz": [
             "Select a business",
             "選擇單位"
+        ],
+        "NotAuthorized": [
+            "You are not authorized to this business.",
+            "您沒有此單位的管理權限。"
         ]
     },
     "Products": {
