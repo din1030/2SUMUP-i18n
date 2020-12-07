@@ -529,6 +529,10 @@ var data = {
         "RetainedEarnings": [
             "Retained Earnings",
             "保留盈餘或累積虧損"
+        ],
+        "OtherEquity": [
+            "Other Equity",
+            "其他股東權益"
         ]
     },
     "Accounts": {
@@ -672,11 +676,11 @@ var data = {
         ],
         "Deposit": [
             "%%",
-            "存入"
+            "收入"
         ],
         "Withdraw": [
             "%%",
-            "提出"
+            "支出"
         ],
         "Journal": [
             "%%",
@@ -684,7 +688,7 @@ var data = {
         ],
         "PaymentAccount": [
             "Payment Account",
-            "付款帳戶"
+            "交易帳戶"
         ],
         "EntryAccount": [
             "Entry Account",
@@ -1334,7 +1338,7 @@ var data = {
         ],
         "PaymentAccount": [
             "Payment Account",
-            "付款帳戶"
+            "交易帳戶"
         ],
         "ExpenseAccount": [
             "Expense Account",
@@ -1690,7 +1694,7 @@ var data = {
         ],
         "PaymentAccount": [
             "Payment Account",
-            "付款帳戶"
+            "交易帳戶"
         ],
         "Notes": [
             "Note",
@@ -2151,6 +2155,10 @@ var data = {
         "SuccessfullyReset": [
             "Your password was successfully changed.",
             "已重設密碼。"
+        ],
+        "DuplicateAccountError": [
+            "Account should be unique in a transaction.",
+            "交易中有重複之科目。"
         ]
     }
 }
