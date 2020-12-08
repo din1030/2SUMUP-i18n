@@ -1989,6 +1989,50 @@ var data = {
         "ShowSummary": [
             "Show Summary",
             "顯示總覽"
+        ],
+        "CashInflowAndOutflow": [
+            "Cash Inflow and Outflow",
+            "現金流量"
+        ],
+        "OperatingActivities": [
+            "Operating Activities",
+            "營業活動"
+        ],
+        "InvestingActivities": [
+            "Investing Activities",
+            "投資活動"
+        ],
+        "FinancingActivities": [
+            "Financing Activities",
+            "籌資活動"
+        ],
+        "NetFromOperating": [
+            "Net Cash from Operating Activities",
+            "營業活動之淨現金流入（出）"
+        ],
+        "NetFromInvesting": [
+            "Net Cash from Investing Activities",
+            "投資活動之淨現金流入（出）"
+        ],
+        "NetFromFinancing": [
+            "Net Cash from Financing Activities",
+            "籌資活動之淨現金流入（出）"
+        ],
+        "Overview": [
+            "%%",
+            "總覽"
+        ],
+        "GrossCashInflow": [
+            "Gross Cash Inflow",
+            "總現金流入"
+        ],
+        "GrossCashOutflow": [
+            "Gross Cash Outflow",
+            "總現金流出"
+        ],
+        "NetCashChange": [
+            "Net Cash Change",
+            "現金總變動"
         ]
     },
     "Settings": {
