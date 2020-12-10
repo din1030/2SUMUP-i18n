@@ -932,9 +932,9 @@ var data = {
             "%%",
             "銷售"
         ],
-        "Purchase": [
+        "Buy": [
             "%%",
-            "進貨"
+            "採購"
         ],
         "Memo": [
             "Memo",
@@ -970,7 +970,7 @@ var data = {
         ],
         "IsBuyingItem": [
             "Buy this",
-            "此項目為進貨"
+            "此項目為採購"
         ],
         "IncomeAccount": [
             "Income Account",
