@@ -1581,6 +1581,26 @@ var data = {
         "Total": [
             "%%",
             "加總金額"
+        ],
+        "AgedReceivablesAndPayables": [
+            "Aged Receivables And Payables",
+            "應收及應付"
+        ],
+        "NumOfInv": [
+            "Number of Invoices",
+            "請款單數量"
+        ],
+        "NumOfBills": [
+            "Number of Bills",
+            "帳單數量"
+        ],
+        "TotalAmtOfInv": [
+            "Total Amount of Invoices",
+            "請款單總金額"
+        ],
+        "TotalAmtOfBill": [
+            "Total Amount of Bills",
+            "帳單總金額"
         ]
     },
     "Bills": {
