@@ -1587,11 +1587,11 @@ var data = {
             "應收及應付"
         ],
         "NumOfInv": [
-            "Number of Invoices",
+            "# of Invoices",
             "請款單數量"
         ],
         "NumOfBills": [
-            "Number of Bills",
+            "# of Bills",
             "帳單數量"
         ],
         "TotalAmtOfInv": [
@@ -1601,6 +1601,14 @@ var data = {
         "TotalAmtOfBill": [
             "Total Amount of Bills",
             "帳單總金額"
+        ],
+        "NumLabel": [
+            "# of Invoices/Bills",
+            "單據數量"
+        ],
+        "TotalLabel": [
+            "Total Amount(in thousands)",
+            "總金額（千元）"
         ]
     },
     "Bills": {
