@@ -676,11 +676,11 @@ var data = {
         ],
         "Deposit": [
             "%%",
-            "收入"
+            "存入"
         ],
         "Withdraw": [
             "%%",
-            "支出"
+            "提出"
         ],
         "Journal": [
             "%%",
@@ -1572,7 +1572,7 @@ var data = {
         ],
         "SummaryOfInvoiceAndBills": [
             "Summary Of Invoice & Bills",
-            "單據摘要"
+            "單據統計"
         ],
         "NumberOf": [
             "#",
