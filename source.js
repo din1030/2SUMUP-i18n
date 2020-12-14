@@ -204,6 +204,18 @@ var data = {
             "Account Number",
             "銀行帳號"
         ],
+        "SwiftCode": [
+            "SWIFT Code",
+            "銀行國際代碼 SWIFT Code"
+        ],
+        "BankName": [
+            "Bank Name",
+            "銀行名稱"
+        ],
+        "BankAddress": [
+            "Bank Address",
+            "銀行地址"
+        ],
         "Website": [
             "%%",
             "網站連結"
@@ -651,6 +663,10 @@ var data = {
         "Taxes": [
             "Taxes",
             "稅捐"
+        ],
+        "Other": [
+            "Other",
+            "其他"
         ]
     },
     "Transactions": {
@@ -1613,6 +1629,26 @@ var data = {
         "TotalLabel": [
             "Total Amount",
             "總金額（元）"
+        ],
+        "ExpensesAnalysis": [
+            "Expenses Analysis",
+            "支出分析"
+        ],
+        "ExpenseAccount": [
+            "Expense Account",
+            "支出項目"
+        ],
+        "ExpenseProportion": [
+            "Proportion",
+            "佔比"
+        ],
+        "ExpenseAmt": [
+            "Amount",
+            "金額"
+        ],
+        "NoExpenseData": [
+            "No Expenses.",
+            "尚無費用支出"
         ]
     },
     "Bills": {
@@ -1844,11 +1880,11 @@ var data = {
         ],
         "Debit": [
             "%%",
-            "借方金額"
+            "借方餘額"
         ],
         "Credit": [
             "%%",
-            "貸方金額"
+            "貸方餘額"
         ],
         "Balance": [
             "%%",
@@ -2235,6 +2271,10 @@ var data = {
         "DuplicateAccountError": [
             "Account should be unique in a transaction.",
             "交易中有重複之科目。"
+        ],
+        "AtLeastOneProduct": [
+            "Please add at least one product/service.",
+            "請至少選擇一樣商品或服務。"
         ]
     }
 }
