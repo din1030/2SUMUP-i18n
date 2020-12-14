@@ -157,6 +157,10 @@ var data = {
         "Convert": [
             "%%",
             "轉換"
+        ],
+        "Export": [
+            "Export",
+            "匯出"
         ]
     },
     "ContactInfo": {
@@ -1607,8 +1611,8 @@ var data = {
             "單據數量"
         ],
         "TotalLabel": [
-            "Total Amount(in thousands)",
-            "總金額（千元）"
+            "Total Amount",
+            "總金額（元）"
         ]
     },
     "Bills": {
