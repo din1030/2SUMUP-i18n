@@ -1657,6 +1657,66 @@ var data = {
         "NoExpenseData": [
             "No Expenses.",
             "尚無費用支出"
+        ],
+        "ThisMonth": [
+            "This Month",
+            "本月份"
+        ],
+        "ThisYear": [
+            "This Year",
+            "今年度"
+        ],
+        "Last12Months": [
+            "Last 12 Months",
+            "近 12 個月"
+        ],
+        "Last24Months": [
+            "Last 24 Months",
+            "近 24 個月"
+        ],
+        "YearIncome": [
+            "Year Income",
+            "年度淨利"
+        ],
+        "Year": [
+            "%%",
+            "年度"
+        ],
+        "Income": [
+            "%%",
+            "收入"
+        ],
+        "Expense": [
+            "%%",
+            "支出"
+        ],
+        "NetIncome": [
+            "Net Income",
+            "淨收入"
+        ],
+        "CashFlow": [
+            "Cash Flow",
+            "現金流"
+        ],
+        "ProfitLoss": [
+            "Profit & Loss",
+            "損益統計"
+        ],
+        "CashInflow": [
+            "Cash Inflow",
+            "現金流入"
+        ],
+        "CashOutflow": [
+            "Cash Outflow",
+            "現金流出"
+        ],
+        "NetChange": [
+            "Net Change",
+            "現金變動"
+        ],
+        "AmtLabel": [
+            "Amount",
+            "金額（元）"
         ]
     },
     "Bills": {
