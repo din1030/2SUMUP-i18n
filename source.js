@@ -2347,6 +2347,14 @@ var data = {
         "AtLeastOneProduct": [
             "Please add at least one product/service.",
             "請至少選擇一樣商品或服務。"
+        ],
+        "SuccessfullyVerified": [
+            "Your Account is Successfully verified. Please login again.",
+            "驗證完成，請重新登入。"
+        ],
+        "FailedVerification": [
+            "Token invalid or email has already verified## please try to log in again.",
+            "驗證碼無效或您已完成驗證，請嘗試重新登入。"
         ]
     }
 }
