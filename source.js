@@ -1688,7 +1688,11 @@ var data = {
         ],
         "Expense": [
             "%%",
-            "支出"
+            "費用"
+        ],
+        "Cost": [
+            "%%",
+            "成本"
         ],
         "NetIncome": [
             "Net Income",
