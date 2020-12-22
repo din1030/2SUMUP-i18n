@@ -2191,6 +2191,18 @@ var data = {
         "DataExport": [
             "Data Export",
             "資料匯出"
+        ],
+        "ExportTransactionData": [
+            "Export Transaction Data",
+            "匯出交易記錄"
+        ],
+        "ExportReceiptImg": [
+            "Export Receipt Images",
+            "匯出收據圖片"
+        ],
+        "DownloadLink": [
+            "Download Link(Expires in 48 hours)",
+            "下載連結（資料保存 48 小時）"
         ]
     },
     "Collaborators": {
