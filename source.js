@@ -2367,6 +2367,10 @@ var data = {
         "FailedVerification": [
             "Token invalid or email has already verified## please try to log in again.",
             "驗證碼無效或您已完成驗證，請嘗試重新登入。"
+        ],
+        "InvalidAccessToken": [
+            "Login session expired## please log in again.",
+            "您的登入已失效，請重新登入。"
         ]
     }
 }
