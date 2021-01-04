@@ -2286,6 +2286,14 @@ var data = {
             "Invalid Email Address.",
             "無效的 Email"
         ],
+        "InvalidDisplayId": [
+            "2sumup ID must be 6-12 characters of letters (a-z) or numbers (0-9).",
+            "2sumup ID 需為長度 8-16 的英數字。"
+        ],
+        "CannotAddCurrentBiz": [
+            "Cannot add current business as customer.",
+            "無法新增目前操作之公司為顧客。"
+        ],
         "InvalidPassword": [
             "Your password must be 8-16 characters## and include at least one lowercase letter## one uppercase letter## and a number.",
             "密碼必須包含大小寫英文及數字，長度 8-16"
