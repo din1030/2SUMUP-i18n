@@ -2288,7 +2288,7 @@ var data = {
         ],
         "InvalidDisplayId": [
             "2sumup ID must be 6-12 characters of letters (a-z) or numbers (0-9).",
-            "2sumup ID 需為長度 8-16 的英數字。"
+            "2sumup ID 需為長度 6-12 的英數字。"
         ],
         "CannotAddCurrentBiz": [
             "Cannot add current business as customer.",
