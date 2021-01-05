@@ -846,13 +846,17 @@ var data = {
             "Confirm the delete action. This cannot be undone.",
             "即將刪除勾選交易紀錄，此動作無法回復，請再次確認。"
         ],
+        "ReceiptPayment": [
+            "Receipt Payment:",
+            "帳單付款："
+        ],
         "BillPayment": [
-            "Bill Payment",
-            "帳單付款"
+            "Bill Payment:",
+            "帳單付款："
         ],
         "InvoicePayment": [
-            "Invoice Payment",
-            "請款單收款"
+            "Invoice Payment:",
+            "請款單收款："
         ]
     },
     "ChartOfAccounts": {
