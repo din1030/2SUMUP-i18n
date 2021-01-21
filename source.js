@@ -2336,7 +2336,7 @@ var data = {
             "Successfully duplicated.",
             "已複製資訊。"
         ],
-        "SuccessfullySendToCustomer": [
+        "SuccessfullySend": [
             "Successfully send to customer.",
             "已寄出給客戶。"
         ],
@@ -2383,6 +2383,21 @@ var data = {
         "InvalidAccessToken": [
             "Login session expired## please log in again.",
             "您的登入已失效，請重新登入。"
+        ]
+    },
+    "APIErrors": {
+        "AUTHENTICATION_ERROR": [
+            "Logging session expired##",
+            "please login again.",
+            "登入狀態失效，請重新登入。"
+        ],
+        "MISSING_FIELD_ERROR": [
+            "Please check all highlighted fields and try again.",
+            "請檢查輸入資訊是否正確。"
+        ],
+        "INVALID_VALUE_ERROR": [
+            "Please check all highlighted fields and try again.",
+            "請檢查輸入資訊是否正確。"
         ]
     }
 }
