@@ -848,7 +848,7 @@ var data = {
         ],
         "ReceiptPayment": [
             "Receipt Payment:",
-            "帳單付款："
+            "收據/發票付款："
         ],
         "BillPayment": [
             "Bill Payment:",
