@@ -782,6 +782,10 @@ var data = {
             "Not Reviewed",
             "未審核"
         ],
+        "All": [
+            "%%",
+            "不限"
+        ],
         "MarkReviewed": [
             "Mark as Reviewed",
             "標示為已審核"
