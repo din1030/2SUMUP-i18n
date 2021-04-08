@@ -2390,18 +2390,117 @@ var data = {
         ]
     },
     "APIErrors": {
-        "AUTHENTICATION_ERROR": [
-            "Logging session expired##",
-            "please login again.",
+        "INVALID_TOKEN_ERROR": [
+            "Logging session expired## please login again.",
             "登入狀態失效，請重新登入。"
         ],
         "MISSING_FIELD_ERROR": [
             "Please check all highlighted fields and try again.",
             "請檢查輸入資訊是否正確。"
         ],
-        "INVALID_VALUE_ERROR": [
+        "INVALID_FIELD_VALUE_ERROR": [
             "Please check all highlighted fields and try again.",
             "請檢查輸入資訊是否正確。"
+        ],
+        "OBJECT_NOT_FOUND_ERROR": [
+            "Data not available## please check input fields and try again later.",
+            "無法取得資料，請檢查輸入資訊是否正確。"
+        ],
+        "BIZ_NOT_FOUND_ERROR": [
+            "Business not found.",
+            "此單位不存在。"
+        ],
+        "AUTHENTICATION_ERROR": [
+            "Incorrect email or password.",
+            "帳號或密碼錯誤。"
+        ],
+        "ACCOUNT_EXISTING_ERROR": [
+            "This account already exists.",
+            "此帳號已註冊。"
+        ],
+        "INVALID_RESET_TOKEN_ERROR": [
+            "Cannot reset password## please try again.",
+            "無法重設密碼，請重新申請。"
+        ],
+        "ACCOUNT_NOT_FOUND_ERROR": [
+            "Account not found.",
+            "此帳號不存在。"
+        ],
+        "ALREADY_VERIFIED_ERROR": [
+            "Account already verified## please log in.",
+            "帳號已驗證，請重新登入。"
+        ],
+        "DISPLAY_ID_EXISTING_ERROR": [
+            "2SUMUP ID already exists.",
+            "此 2SUMUP ID 已被使用。"
+        ],
+        "INVALID_TIMEZONE_ERROR": [
+            "Invalid timezone option value.",
+            "無效的時區選項。"
+        ],
+        "INVALID_CURRENCY_ERROR": [
+            "Invalid currency option value.",
+            "無效的幣別選項。"
+        ],
+        "INVALID_TYPE_ERROR": [
+            "Invalid industry option value.",
+            "無效的產業選項。"
+        ],
+        "INVALID_COUNTRY_ERROR": [
+            "Invalid country option value.",
+            "無效的國家選項。"
+        ],
+        "INVALID_ACCOUNT_ERROR": [
+            "Account not found.",
+            "無效的科目。"
+        ],
+        "INVALID_TAX_ERROR": [
+            "Tax not found.",
+            "無效的稅項。"
+        ],
+        "INVALID_RESOURCE_ERROR": [
+            "Specified invoice/bill not exists.",
+            "此請款單/帳單不存在。"
+        ],
+        "NOT_BALANCED_ERROR": [
+            "The debit side and the credit side must balance.",
+            "借貸金額不平衡。"
+        ],
+        "INVALID_CATEGORY_ERROR": [
+            "Invalid account category.",
+            "科目分類有誤。"
+        ],
+        "INVALID_IMAGE_FORMAT_ERROR": [
+            "Incorrect receipt image type(allow only jpg and png).",
+            "不允許的收據圖檔類型（僅接受 jpg 及 png）。"
+        ],
+        "BILL_NO_ALREADY_EXIST_ERROR": [
+            "Bill No. already exists.",
+            "帳單編號不可重複。"
+        ],
+        "INVALID_PRODUCT_ERROR": [
+            "Product/Service not found.",
+            "無效的產品/服務。"
+        ],
+        "EMPTY_PRODUCT_LIST_ERROR": [
+            "Please add at least 1 item.",
+            "請加入至少一項商品/服務。"
+        ],
+        "INVALID_VENDOR_ERROR": [
+            "Vendor not found.",
+            "所填廠商不存在。"
+        ],
+        "ESTIMATE_NO_ALREADY_EXIST_ERROR": [
+            "Estimate No. already exists.",
+            "報價單編號不可重複。"
+        ],
+        "INVALID_CUSTOMER_ERROR": [
+            "Customer not found.",
+            "所填顧客不存在。"
+        ],
+        "INVOICE_NO_ALREADY_EXIST_ERROR": [
+            "Invoice No. already exists.",
+            "請款單編號不可重複。"
         ]
     }
 }
