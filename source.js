@@ -261,11 +261,11 @@ var data = {
             "產業別"
         ],
         "2sumupId": [
-            "2sumup ID",
-            "2sumup ID"
+            "2SUMUP ID",
+            "2SUMUP ID"
         ],
         "IDNote": [
-            "You can provide this ID to other 2sumup users. Invoices sent via this ID will integrate to your business.",
+            "You can provide this ID to other 2SUMUP users. Invoices sent via this ID will integrate to your business.",
             "本 ID 可提供給其他 2sumup 使用者，透過 ID 傳送之帳務資訊會自動整合至貴公司之資料，不需手動輸入，節省您的時間。"
         ],
         "SameAsBilling": [
@@ -404,14 +404,14 @@ var data = {
         ],
         "VerifiedDescription": [
             "Tell us about you and your business",
-            "填寫您的單位資訊，馬上使用 2sumup!"
+            "填寫您的單位資訊，馬上使用 2SUMUP!"
         ],
         "FillBizInfo": [
             "Fill Business Info",
             "填寫單位資訊"
         ],
         "CurrencyNote": [
-            "For data consistency## currency CANNOT be changed after your business account created in 2sumup.",
+            "For data consistency## currency CANNOT be changed after your business account created in 2SUMUP.",
             "由於報表一致性，單位所使用幣別設定後無法修改。"
         ]
     },
@@ -1167,8 +1167,8 @@ var data = {
             "點我複製連結"
         ],
         "PoweredBy": [
-            "Powered By 2sumup",
-            "本服務由 2sumup 提供"
+            "Powered By 2SUMUP",
+            "本服務由 2SUMUP 提供"
         ],
         "From": [
             "From:",
@@ -1279,7 +1279,7 @@ var data = {
             "透過下面的連結，將此請款單分享給客戶："
         ],
         "SendVia2SUMUP": [
-            "Send via 2sumup",
+            "Send via 2SUMUP",
             "轉寄"
         ],
         "GetLink": [
@@ -1427,8 +1427,8 @@ var data = {
             "編輯客戶資訊"
         ],
         "SearchNote": [
-            "Quickly add Customer Info by 2sumup ID:",
-            "若客戶有提供 2sumup ID，可查詢帶入資料："
+            "Quickly add Customer Info by their 2SUMUP ID:",
+            "若客戶有提供 2SUMUP ID，可查詢帶入資料："
         ],
         "DeleteCustomer": [
             "Delete Customer",
@@ -2259,8 +2259,8 @@ var data = {
             "刪除資料後無法回復，請再次確認。"
         ],
         "InviteCollaboratorHint": [
-            "Welcome to 2sumup! Become a member of {bizName}.",
-            "歡迎使用 2sumup 加入 {bizName} 的管理團隊。"
+            "Welcome to 2SUMUP! Become a member of {bizName}.",
+            "歡迎使用 2SUMUP 加入 {bizName} 的管理團隊。"
         ],
         "LogInToJoin": [
             "Log in to join",
@@ -2295,8 +2295,8 @@ var data = {
             "無效的 Email"
         ],
         "InvalidDisplayId": [
-            "2sumup ID must be 6-12 characters of letters (a-z) or numbers (0-9).",
-            "2sumup ID 需為長度 6-12 的英數字。"
+            "2SUMUP ID must be 6-12 characters of letters (a-z) or numbers (0-9).",
+            "2SUMUP ID 需為長度 6-12 的英數字。"
         ],
         "CannotAddCurrentBiz": [
             "Cannot add current business as customer.",
