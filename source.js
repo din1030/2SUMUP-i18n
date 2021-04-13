@@ -2181,6 +2181,90 @@ var data = {
         "NetCashChange": [
             "Net Cash Change",
             "現金總變動"
+        ],
+        "GetPictureTitle": [
+            "Get the big picture",
+            "全面了解"
+        ],
+        "GetPictureDesc": [
+            "How much profit are you making? Are your assets growing faster than your liabilities? Is cash flowing## or getting stuck?",
+            "您賺了多少錢？您的資產增長快於負債增長嗎？您的現金流順暢嗎，還是卡住了？"
+        ],
+        "IncomeStatDesc": [
+            "Summary of your revenue and expenses that determine the profit you made.",
+            "決定您盈利的收入和支出摘要。"
+        ],
+        "BalanceSheetDesc": [
+            "Snapshot of what your business owns or is due to receive from others (assets)## what it owes to others (liabilities)## and what you've invested or retained in your company (equity).",
+            "您的企業擁有或將要從他人那裡收到的資產（資產），需支付他人的東西（負債）以及您在公司中投資或保留的資產（股權）的快照。"
+        ],
+        "CashFlowDesc": [
+            "Cash coming in and going out of your business. Includes items not included in Profit & Loss such as repayment of loan principal and owner drawings (paying yourself).",
+            "現金進出您的業務。包括損益中未包含的專案，如償還貸款本金和股東提取（支付自己）。"
+        ],
+        "TaxTitle": [
+            "Stay on top of taxes",
+            "掌握稅收"
+        ],
+        "TaxDesc": [
+            "Find out how much tax you’ve collected and how much tax you owe back to tax agencies.",
+            "瞭解您已代收的稅款，以及您需繳交稅務機關多少稅款。"
+        ],
+        "TaxReportDesc": [
+            "Taxes collected from sales and paid on purchases to help you file sales tax returns.",
+            "從銷售中收取並在購買時支付的稅款，以幫助您提交銷售稅申報單。"
+        ],
+        "CusTitle": [
+            "Focus on customers",
+            "關注於您的客戶"
+        ],
+        "CusDesc": [
+            "See which customers contribute most of your revenue## and keep on top of overdue balances.",
+            "檢視哪些客戶貢獻了您的 大部分收入，並掌握逾期餘額。"
+        ],
+        "IncomeByCusDesc": [
+            "Paid or unpaid income broken down by customer.",
+            "依照客戶去細分已付或未付的收入。"
+        ],
+        "AgeReceivablesDesc": [
+            "Unpaid and overdue invoices for the last 30## 60## and 90+ days.",
+            "最近30、60和90天內的未付款和逾期發票。"
+        ],
+        "VenTitle": [
+            "Focus on vendors",
+            "專注於供應商"
+        ],
+        "VenDesc": [
+            "Understand business spending## where you spend## and how much you owe to your vendors.",
+            "了解業務支出，支出到何處以及對供應商的欠款。"
+        ],
+        "PurchasesByVenDesc": [
+            "Business purchases## broken down by who you bought from.",
+            "商業購買，按您從誰那裡購買細分。"
+        ],
+        "AgedPayablesDesc": [
+            "Unpaid and overdue invoices for the last 30## 60## and 90+ days.",
+            "最近30、60和90天內的未付款和逾期發票。"
+        ],
+        "DigDeeperTitle": [
+            "Dig deeper",
+            "深入分析"
+        ],
+        "DigDeeperDesc": [
+            "Drill into the detail of financial transactions over the life of your company.",
+            "深入研究公司整個週期中的財務交易細節。"
+        ],
+        "AccountBalancesDesc": [
+            "Summary view of balances and activity for all accounts.",
+            "所有賬戶餘額和活動的摘要視圖。"
+        ],
+        "TrialBalanceDesc": [
+            "Balance of all your accounts on a specified date.",
+            "指定日期的所有帳戶餘額。"
+        ],
+        "GeneralLedgerDesc": [
+            "Detailed list of all transactions and their total by account—everything in your Chart of Accounts.",
+            "會計科目表中的所有交易的詳細列表及其按帳戶的總計。"
         ]
     },
     "Settings": {
