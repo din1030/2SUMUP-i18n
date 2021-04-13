@@ -2585,6 +2585,10 @@ var data = {
         "INVOICE_NO_ALREADY_EXIST_ERROR": [
             "Invoice No. already exists.",
             "請款單編號不可重複。"
+        ],
+        "INTERNAL_ERROR": [
+            "Something went wrong. Please try again later.",
+            "系統發生錯誤，請稍後再試。"
         ]
     }
 }
