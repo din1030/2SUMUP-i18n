@@ -478,6 +478,10 @@ var data = {
             "Current Liabilities",
             "流動負債"
         ],
+        "UnearnedReceipts": [
+            "Unearned Receipts",
+            "預收款項"
+        ],
         "AccountsPayable": [
             "Accounts Payable",
             "應付帳款"
@@ -591,6 +595,10 @@ var data = {
         "NotesPayable": [
             "Notes Payable",
             "應付票據"
+        ],
+        "UnearnedRevenue": [
+            "Unearned Revenue",
+            "預收收入"
         ],
         "LongTermDebtPayable": [
             "Long-Term Debt Payable",
