@@ -15,13 +15,18 @@ for (var section in data) {
     }
 }
 
-var ph1 = ['Vendor', 'Customer', 'Tax', 'Account', 'AccountType', 'Date', 'DateRange', 'Status', 'Country', 'Currency', 'Timezone', 'ProductAndService', 'Industry'];
-var ph2 = ['廠商', '客戶', '稅項', '科目', '科目分類', '日期', '日期區間', '狀態', '國家', '使用幣別', '公司所在時區', '商品或服務', '產業別'];
+var ph1 = ['Vendor', 'Customer', 'Tax', 'Account', 'AccountType', 'Date', 'DateRange', 'Status', 'Country', 'Currency', 'Timezone', 'ProductAndService', 'Industry', 'Contact'];
+var ph2 = ['廠商', '客戶', '稅項', '科目', '科目分類', '日期', '日期區間', '狀態', '國家', '使用幣別', '公司所在時區', '商品或服務', '產業別', '往來對象'];
 tw['Placeholder'] = {};
 en['Placeholder'] = {};
 for (var i = 0; i < ph1.length; i++) {
     tw['Placeholder']['__' + ph1[i]] = '選擇' + ph2[i];
     if (['A', 'E', 'I', 'O', 'U'].includes(ph1[i][0])) {
+        if (ph1[i] == 'AccountType') {
+            en['Placeholder']['__' + ph1[i]] = "Select Account Type";
+            continue;
+        }
+
         en['Placeholder']['__' + ph1[i]] = "Select an " + ph1[i];
     } else {
         if (ph1[i] == 'Tax') {
@@ -33,11 +38,7 @@ for (var i = 0; i < ph1.length; i++) {
             continue;
         }
         if (ph1[i] == 'ProductAndService') {
-            en['Placeholder']['__' + ph1[i]] = "Select  a  Product/Service";
-            continue;
-        }
-        if (ph1[i] == 'AccountType') {
-            en['Placeholder']['__' + ph1[i]] = "Select Account Type";
+            en['Placeholder']['__' + ph1[i]] = "Select a Product/Service";
             continue;
         }
 

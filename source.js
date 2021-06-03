@@ -2273,10 +2273,6 @@ var data = {
         "GeneralLedgerDesc": [
             "Detailed list of all transactions and their total by account—everything in your Chart of Accounts.",
             "會計科目表中的所有交易的詳細列表及其按帳戶的總計。"
-        ],
-        "SelectContact": [
-            "Select a contact",
-            "選擇往來對象"
         ]
     },
     "Settings": {
