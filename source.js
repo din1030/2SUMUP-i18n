@@ -1025,7 +1025,7 @@ var data = {
             "進貨入帳科目"
         ],
         "SelectAccount": [
-            "Select an Account",
+            "Select an account",
             "請選擇科目"
         ],
         "DeleteProduct": [
@@ -2273,6 +2273,10 @@ var data = {
         "GeneralLedgerDesc": [
             "Detailed list of all transactions and their total by account—everything in your Chart of Accounts.",
             "會計科目表中的所有交易的詳細列表及其按帳戶的總計。"
+        ],
+        "SelectContact": [
+            "Select a contact",
+            "選擇往來對象"
         ]
     },
     "Settings": {
