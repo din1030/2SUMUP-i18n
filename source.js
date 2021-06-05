@@ -2275,7 +2275,8 @@ var data = {
             "會計科目表中的所有交易的詳細列表及其按帳戶的總計。"
         ],
         "AllAccounts": [
-            "All accounts. 所有科目"
+            "All accounts",
+            "所有科目"
         ]
     },
     "Settings": {
