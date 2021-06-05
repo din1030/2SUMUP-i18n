@@ -2277,6 +2277,10 @@ var data = {
         "AllAccounts": [
             "All accounts",
             "所有科目"
+        ],
+        "AllContacts": [
+            "All contacts",
+            "所有往來對象"
         ]
     },
     "Settings": {
