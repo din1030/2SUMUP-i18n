@@ -2605,6 +2605,10 @@ var data = {
         "INTERNAL_ERROR": [
             "Something went wrong. Please try again later.",
             "系統發生錯誤，請稍後再試。"
+        ],
+        "RESOURCE_IN_USE_ERROR": [
+            "Selected item is connected to other data## please remove related data first.",
+            "請先刪除與此項目有關之資料。"
         ]
     }
 }
