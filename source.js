@@ -1372,6 +1372,10 @@ var data = {
             "Edit Receipt",
             "編輯收據/發票"
         ],
+        "ReceiptDetail": [
+            "Receipt Detail",
+            "收據/發票內容"
+        ],
         "Date": [
             "%%",
             "日期"
